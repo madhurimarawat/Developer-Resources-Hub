@@ -148,12 +148,12 @@ A comprehensive collection of valuable resources for developers, covering job pr
 
 > *These PDFs are located in the `AI ML DS/AI ML DS/` folder.*
 
-* 📄 [AI ML DS.pdf](AI%20ML%20DS/AI%20ML%20DS/AI%20ML%20DS.pdf) – *Overview of AI, ML, and Data Science fields.*
-* 📄 [AI Vs ML Vs DS FOR INDUSTRY.pdf](AI%20ML%20DS/AI%20ML%20DS/AI%20Vs%20ML%20Vs%20DS%20FOR%20INDUSTRY.pdf) – *Comparison of AI, ML, and DS in practical applications.*
-* 📄 [Data Science Interview.pdf](AI%20ML%20DS/AI%20ML%20DS/Data%20Science%20Interview.pdf) – *Key questions and answers for DS job interviews.*
-* 📄 [Difference Between DS AI AND DL.pdf](AI%20ML%20DS/AI%20ML%20DS/Difference%20Between%20DS%20AI%20AND%20DL.pdf) – *Distinguishes Data Science, AI, and Deep Learning.*
-* 📄 [Difference Between DS AI AND ML.pdf](AI%20ML%20DS/AI%20ML%20DS/Difference%20Between%20DS%20AI%20AND%20ML.pdf) – *Clarifies the overlap and differences among fields.*
-* 📄 [Difference Between DS AI AND ML-2.pdf](AI%20ML%20DS/AI%20ML%20DS/Difference%20Between%20DS%20AI%20AND%20ML-2.pdf) – *Extended explanation of ML, DS, and AI relationships.*
+* 📄 [AI ML DS.pdf](AI%20ML%20DS/AI%20ML%20DS.pdf) – *Overview of AI, ML, and Data Science fields.*
+* 📄 [AI Vs ML Vs DS FOR INDUSTRY.pdf](AI%20ML%20DS/AI%20Vs%20ML%20Vs%20DS%20FOR%20INDUSTRY.pdf) – *Comparison of AI, ML, and DS in practical applications.*
+* 📄 [Data Science Interview.pdf](AI%20ML%20DS/Data%20Science%20Interview.pdf) – *Key questions and answers for DS job interviews.*
+* 📄 [Difference Between DS AI AND DL.pdf](AI%20ML%20DS/Difference%20Between%20DS%20AI%20AND%20DL.pdf) – *Distinguishes Data Science, AI, and Deep Learning.*
+* 📄 [Difference Between DS AI AND ML.pdf](AI%20ML%20DS/Difference%20Between%20DS%20AI%20AND%20ML.pdf) – *Clarifies the overlap and differences among fields.*
+* 📄 [Difference Between DS AI AND ML-2.pdf](AI%20ML%20DS/Difference%20Between%20DS%20AI%20AND%20ML-2.pdf) – *Extended explanation of ML, DS, and AI relationships.*
 
 ---
 

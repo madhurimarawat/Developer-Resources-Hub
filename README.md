@@ -71,6 +71,7 @@ A comprehensive collection of valuable resources for developers, covering job pr
 - [🦀 Rust Programming](#rust-programming)
 - [🌐 Study Resources](#study-resources)
 - [📊 SAS Programming](#sas-programming)
+- [🧾 HTML to PDF Conversion](#-html-to-pdf-conversion)
 
 ---
 
@@ -564,3 +565,67 @@ A comprehensive collection of valuable resources for developers, covering job pr
 
 * 📘 [SAS Intro Guide – ECU](https://ofe.ecu.edu/wp-content/pv-uploads/sites/277/2021/05/SAS_intro_2021OFE.pdf)  
   *Official SAS intro document from East Carolina University.*
+
+---
+
+<a id="html-to-pdf-conversion"></a>
+
+## 🧾 HTML to PDF Conversion
+
+Convert HTML files to PDF using browser tools, command-line utilities, Python, or online services.
+
+### 🔹 1. Using Google Chrome or Any Browser (Easy Method)
+
+1. Open the HTML file in your browser (Chrome, Edge, Firefox).
+2. Press `Ctrl + P` (Windows/Linux) or `Cmd + P` (Mac) to open the **Print** dialog.
+3. In the **Destination** section, select **Save as PDF**.
+4. Click **Save**, choose a location, and save the file.
+
+### 🔹 2. Using `wkhtmltopdf` (Command Line)
+
+A powerful tool to convert HTML to PDF via terminal.
+
+#### ✅ Install `wkhtmltopdf`
+
+- **Ubuntu/Debian:**
+  ```bash
+  sudo apt install wkhtmltopdf
+  ```
+
+* **Mac (Homebrew):**
+
+  ```bash
+  brew install wkhtmltopdf
+  ```
+* **Windows:** Download from [wkhtmltopdf.org](https://wkhtmltopdf.org/downloads.html)
+
+#### 🔁 Convert HTML to PDF
+
+```bash
+wkhtmltopdf input.html output.pdf
+```
+
+### 🔹 3. Using Python (Automated)
+
+Automate the conversion with Python using `pdfkit`.
+
+#### ✅ Install Dependencies
+
+```bash
+pip install pdfkit
+sudo apt install wkhtmltopdf
+```
+
+#### 💡 Python Script
+
+```python
+import pdfkit
+pdfkit.from_file("input.html", "output.pdf")
+```
+
+### 🔹 4. Using an Online Tool
+
+No setup needed—just upload your file and convert:
+
+* 🌐 [Sejda HTML to PDF](https://www.sejda.com/html-to-pdf)
+* 🌐 [PDFCrowd](https://www.pdfcrowd.com/)

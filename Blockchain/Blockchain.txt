@@ -1,0 +1,45 @@
+Decentralized ?
+
+Decentralized is a term used to describe a system that is not owned or controlled by a single entity, such as a government, bank, or company.
+
+Since decentralized services do not rely on a centralized authority, they possess several benefits including censorship resistance, increased security, and resistance to hacking and manipulation.
+
+For example, Bitcoin is a type of decentralized currency since it is not owned by a bank or government. Records of all transactions are stored on ledgers which are then maintained on a network of computers owned by users around the world.
+
+
+Why Decentralization ?
+
+Decentralization allows you to maintain independent control and decision-making.
+
+The direction and future of your system aren’t dependent on the integrity of any single authority.
+
+If a single authority ever becomes corrupt, damaged, or compromised, the entire organization has the potential to collapse.
+
+Blockchain
+
+
+Blockchain is an open, distributed ledger that can record transactions between two parties efficiently and in a verifiable and permanent way.
+
+A digital database containing information (such as records of financial transactions) that can be simultaneously used and shared within a large decentralized, publicly accessible network.
+
+Smart Contracts
+
+A smart contract is a computer program or a transaction protocol that is intended to automatically execute, control or document events and actions according to the terms of a contract or an agreement.
+The objectives of smart contracts are the reduction of need for trusted intermediators, arbitration costs, and fraud losses, as well as the reduction of malicious and accidental exceptions.
+
+What is a dapp and How is it different ?
+
+Dapps are distributed, decentralized open-source software applications that run on a decentralized peer-to-peer network.
+
+Decentralisation
+
+Privacy and Security
+
+Speed
+
+Development Cost
+
+Cost of Use
+
+
+

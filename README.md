@@ -3,7 +3,8 @@
 A comprehensive collection of valuable resources for developers, covering job preparation, programming, frontend, backend, IoT, databases, and more.
 
 <p align="center">
-<a href="https://github.com/madhurimarawat/Developer-Resources-Hub"><img src="images/developers_resources_hub_illustration.png"></a>
+<a href="https://github.com/madhurimarawat/Developer-Resources-Hub"><img src="images/developers_resources_hub_illustration.PNG"></a>
+  <a href="https://github.com/madhurimarawat/Developer-Resources-Hub"><img src="images/developers_resources_hub_illustration_dark.PNG"></a>
 </p>
 
 <p align="center">
@@ -687,3 +688,13 @@ No setup needed—just upload your file and convert:
 
 * 🌐 [Sejda HTML to PDF](https://www.sejda.com/html-to-pdf)
 * 🌐 [PDFCrowd](https://www.pdfcrowd.com/)
+
+---
+
+## Thanks for Visiting 😄
+
+- Drop a 🌟 if you find this repository useful.<br><br>
+- If you have any doubts or suggestions, feel free to reach me.<br><br>
+📫 How to reach me:  &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-madhurima-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/madhurima-rawat/) &nbsp; &nbsp;
+<a href ="mailto:rawatmadhurima@gmail.com"><img src="https://github.com/madhurimarawat/Machine-Learning-Using-Python/assets/105432776/b6a0873a-e961-42c0-8fbf-ab65828c961a" height=35 width=30 title="Mail Illustration" alt="Mail Illustration📫" > </a><br><br>
+- **Contribute and Discuss:** Feel free to open <a href= "https://github.com/madhurimarawat/Developer-Resources-Hub/issues">issues 🐛</a>, submit <a href = "https://github.com/madhurimarawat/Developer-Resources-Hub/pulls">pull requests 🛠️</a>, or start <a href = "https://github.com/madhurimarawat/Developer-Resources-Hub/discussions">discussions 💬</a> to help improve this repository!

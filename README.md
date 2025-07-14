@@ -637,7 +637,7 @@ Stay connected, explore resources, and boost productivity with these mobile apps
 ---
 
 <a id="study-resources"></a>
-## 🌐 Resource: Study Websites
+## 🌐 Study Resources
 
 * 🌐 [Learn Anywhere – Rumie](https://learn.rumie.org/jR/)  
 * 🌐 [GoalKicker – Free Programming Books](https://goalkicker.com/)  

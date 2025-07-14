@@ -136,25 +136,30 @@ A comprehensive collection of valuable resources for developers, covering job pr
 * **🛒 [Gumroad](https://gumroad.com/)**
   *A professional platform that empowers creators to monetize their knowledge and digital products, whether it’s code, design assets, or eBooks.*
   *Just start with what you know, share it with the world, and get paid. Simple and effective.*
+
+* **🚀 [Product Hunt](https://www.producthunt.com/)**
+  *A launch platform for makers to showcase their products and gain traction from a tech-savvy audience.*
+  *Perfect for getting feedback, early users, and visibility for your digital creations.*
   
 ---
 
 <a id="recommended-apps"></a>  
 ### 📱 Notes and To-do Lists
 
-* ✅ [To-do List – Daily Planner (Android)](https://play.google.com/store/apps/details?id=todolist.scheduleplanner.dailyplanner.todo.reminders&referrer=utm_source%3Duser_share)  
-* ✅ [To-do List – Daily Planner (iOS)](https://apps.apple.com/app/apple-store/id1640609657?pt=123351739&ct=andrshare&mt=8)  
+* ✅ [To-do List – Daily Planner: Android](https://play.google.com/store/apps/details?id=todolist.scheduleplanner.dailyplanner.todo.reminders&referrer=utm_source%3Duser_share) | [iOS](https://apps.apple.com/app/apple-store/id1640609657?pt=123351739&ct=andrshare&mt=8)  
   *A clean and simple task scheduler and planner for daily productivity.*
 
-* 🗒️ [EasyNotes – Notes & Reminders (Android)](https://bit.ly/EasyNotesApp)  
-* 🗒️ [EasyNotes – Notes & Reminders (iOS)](https://bit.ly/EasyNotesiOSApp)  
+* 🗒️ [EasyNotes – Notes & Reminders: Android](https://bit.ly/EasyNotesApp) | [iOS](https://bit.ly/EasyNotesiOSApp)  
   *Colorful notepad for text and photo notes.*
-
+  
 * 🐱 [Meow To-do List (Android)](https://play.google.com/store/apps/details?id=com.glgjing.money.task.todo.list.meow)  
   *A fun and quirky task manager app.*
 
 * 🧠 [Mind Notes – Smart Notepad (Android)](https://play.google.com/store/apps/details?id=mindnotes.note.notepad.notebook.memo.stickynotes&referrer=utm_source%3Duser_share)  
   *A visually appealing app for managing sticky notes and tasks.*
+
+* 🗃️ [Anki Flashcards: Android](https://play.google.com/store/apps/details?id=com.ichi2.anki) | [iOS](https://apps.apple.com/app/ankimobile-flashcards/id373493387)  
+  *A powerful, spaced-repetition flashcard app ideal for long-term learning and memory retention.**
 
 ---
 
@@ -596,6 +601,28 @@ Stay connected, explore resources, and boost productivity with these mobile apps
 
 * 📘 [10 GitHub Repositories to Master Python](https://www.kdnuggets.com/10-github-repositories-to-master-python)  
   *A curated list of top Python learning resources and projects.*
+
+### 📚 Interactive Notebooks
+
+* 📓 [Marimo](https://github.com/marimo-team/marimo)  
+  *A Python-based reactive notebook built for developers—clean, fast, and ideal for dashboards and reports.*
+
+* 📔 [Jupyter Notebook](https://jupyter.org/)  
+  *A powerful open-source web app to create and share documents containing live code, equations, and visualizations.*
+
+* 📗 [Google Colab](https://colab.research.google.com/)  
+  *A free cloud service from Google that supports Python notebooks with GPU/TPU support and zero setup.*
+
+### 🧠 Beginner-Friendly Articles
+
+* 📘 [Python for Absolute Beginners – freeCodeCamp](https://www.freecodecamp.org/news/learning-python-from-zero-to-hero-120ea540b567)  
+  *A comprehensive guide to get started with Python from scratch.*
+
+* 📙 [Learn Python – W3Schools](https://www.w3schools.com/python/)  
+  *Interactive lessons to grasp Python syntax, logic, and functions step-by-step.*
+
+* 📕 [Real Python – Beginner’s Roadmap](https://realpython.com/learning-paths/beginner/)  
+  *Structured learning paths for those new to Python, covering basics to real-world projects.*
 
 ---
 

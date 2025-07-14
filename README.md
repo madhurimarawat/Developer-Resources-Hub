@@ -3,6 +3,10 @@
 A comprehensive collection of valuable resources for developers, covering job preparation, programming, frontend, backend, IoT, databases, and more.
 
 <p align="center">
+<a href="https://github.com/madhurimarawat/Developer-Resources-Hub"><img src="images/developers_resources_hub_illustration.png"></a>
+</p>
+
+<p align="center">
   <a href="https://github.com/madhurimarawat/Developer-Resources-Hub/stargazers">
     <img src="https://img.shields.io/github/stars/madhurimarawat/Developer-Resources-Hub?style=flat-square&color=ffb6c1" alt="GitHub Stars" />
   </a>
@@ -78,14 +82,48 @@ A comprehensive collection of valuable resources for developers, covering job pr
 <a id="study-materials"></a>  
 ## 📖 Study Materials
 
-<a id="useful-links"></a>  
+<a id="useful-links"></a>
+
 ### 🔗 Useful Links
 
-* 🧑‍💼 [Mastering LinkedIn – Tips for Building Your Profile and Networking](https://www.msn.com/en-in/entertainment/hollywood/mastering-linkedin-tips-for-building-your-profile-and-networking/ss-BB1muOwj)  
+### 🌐 Online Presence
+
+*Boost your visibility and career growth with these essential resources:*
+
+* **🧑‍💼 [Mastering LinkedIn – Tips for Building Your Profile and Networking](https://www.msn.com/en-in/entertainment/hollywood/mastering-linkedin-tips-for-building-your-profile-and-networking/ss-BB1muOwj)**
   *Learn how to optimize your LinkedIn profile and expand your professional network.*
 
-* 📝 [Brag Document – Ace Interviews and Land a Job](https://www.cnbc.com/2025/06/22/how-a-brag-doc-can-help-you-ace-interviews-and-land-a-job-says-recruiter.html)  
+* **📝 [Brag Document – Ace Interviews and Land a Job](https://www.cnbc.com/2025/06/22/how-a-brag-doc-can-help-you-ace-interviews-and-land-a-job-says-recruiter.html)**
   *Use a brag document to track accomplishments and boost your interview confidence.*
+
+### ✍️ Blogging Platforms
+
+*Write articles, share ideas, and grow your developer presence online:*
+
+* **📰 [Dev.to](https://dev.to/)**
+  *A friendly community of devs writing about code, careers, and life.*
+
+* **✒️ [Medium](https://medium.com/)**
+  *A global platform for sharing tech blogs, tutorials, and opinions.*
+
+* **🚀 [Hashnode](https://hashnode.com/)**
+  *Start your own dev blog on a custom domain with no setup hassle.*
+
+* **📘 [Substack](https://substack.com/)**
+  *Publish articles or newsletters and build your audience with ease.*
+
+* **📖 [Tealfeed](https://tealfeed.com/)**
+  *Discover and write insightful content around tech, startups, and growth.*
+
+* **🧵 [Bear Blog](https://bearblog.dev/)**
+  *A minimalist, privacy-focused blogging platform for developers.*
+
+### 📄 PDF Tools
+
+*Convert, scan, and edit PDFs with these handy tools:*
+
+* **✂️ [Smallpdf – Crop Tool](https://smallpdf.com/crop-pdf#r=crop-pages)**
+  *Crop and resize PDF pages online — quick and user-friendly.*
 
 ---
 
@@ -188,11 +226,31 @@ A comprehensive collection of valuable resources for developers, covering job pr
 
 ## 📲 App Links
 
-* 🎥 [GitHub Badges Tutorial (YouTube)](https://www.youtube.com/watch?v=oJWFfp3sGYA&t=58s)
-  *Learn how to create and use GitHub profile and project badges effectively.*
+### 🛠️ Dev Apps
 
-* ✂️ [PDF Crop Tool – Smallpdf](https://smallpdf.com/crop-pdf#r=crop-pages)
-  *Easily crop or resize PDF pages online using this free tool.*
+Stay connected, explore resources, and boost productivity with these mobile apps made for developers:
+
+* **📚 [Cheat Sheets](https://play.google.com/store/apps/details?id=com.ivansaul.cheatsheets)**
+  *Quickly access programming cheat sheets for multiple languages.*
+
+* **🗓️ [Daily.dev](https://play.google.com/store/apps/details?id=dev.daily)**
+  *Developer news and articles curated from top sources, delivered daily.*
+
+* **⚡ [DevBytes](https://play.google.com/store/apps/details?id=com.candelalabs.devbytes)**
+  *Byte-sized tech content and dev tips to learn something new every day.*
+
+* **👩‍💻 [Forem (DEV Community)](https://play.google.com/store/apps/details?id=com.forem.android)**
+  *Engage with devs, read blogs, and join discussions right from your phone.*
+
+* **:octocat: [GitHub for Android](https://play.google.com/store/apps/details?id=com.github.android)**
+  *Manage repos, issues, pull requests, and more – on the go.*
+
+### 📄 PDF Tools
+
+*Convert, scan, and edit PDFs with these handy tools:*
+
+* **📷 [Adobe Scan](https://adobescan.app.link/LYfBUdFMlY)**
+  *Scan documents and convert them into clean, shareable PDFs easily.*
 
 ---
 

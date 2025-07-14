@@ -37,11 +37,10 @@ A comprehensive collection of valuable resources for developers, covering job pr
 <a id="table-of-contents"></a>  
 ## 📌 Table of Contents
 
-- <a href="#study-materials">📖 Study Materials</a>  
-  - <a href="#useful-links">🔗 Useful Links</a>  
-  - <a href="#recommended-apps">📱 Notes and To-do Lists</a>  
-  - <a href="#free-courses">📚 Free Courses</a>  
-  - <a href="#books-and-references">📘 Books & References</a>  
+- <a href="#useful-links">🔗 Useful Links</a>  
+- <a href="#recommended-apps">📱 Notes and To-do Lists</a>  
+- <a href="#free-courses">📚 Free Courses</a>  
+- <a href="#books-and-references">📘 Books & References</a>  
 - <a href="#ai-ml-ds-resources">🧠 AI / ML / DS Resources</a>  
   - <a href="#github-repositories">📂 GitHub Repositories</a>  
   - <a href="#pdf-files">📄 PDF Files</a>  
@@ -80,12 +79,9 @@ A comprehensive collection of valuable resources for developers, covering job pr
 
 ---
 
-<a id="study-materials"></a>  
-## 📖 Study Materials
-
 <a id="useful-links"></a>
 
-### 🔗 Useful Links
+## 🔗 Useful Links
 
 ### 🌐 Online Presence
 
@@ -140,7 +136,40 @@ A comprehensive collection of valuable resources for developers, covering job pr
 * **🚀 [Product Hunt](https://www.producthunt.com/)**
   *A launch platform for makers to showcase their products and gain traction from a tech-savvy audience.*
   *Perfect for getting feedback, early users, and visibility for your digital creations.*
-  
+
+### ⚙️ Utility
+
+#### 🎓 Learning Apps
+
+* **📚 [Edcoupon – Free Udemy Courses](https://play.google.com/store/apps/details?id=com.myEdcoupon.freecourses)**
+  *Get access to daily updated free Udemy courses in tech, business, design, and more.*
+
+#### ✍️ Signature Tools
+
+* **🖋️ [Signature Scanner](https://play.google.com/store/apps/details?id=com.scan.name_signature)**
+  *Scan, create, and digitize your handwritten signature with ease.*
+
+#### 🎬 Video Tools
+
+* **🎞️ [AllCut – All-in-One Video Editor](https://play.google.com/store/apps/details?id=allcut.allinone.videoeditor)**
+  *Edit videos, apply effects, cut, merge, and more — all from one app.*
+
+* **📹 [Video Compressor & Editor](https://play.google.com/store/apps/details?id=com.videoeditor.reducesizevideo.videocompressor)**
+  *Compress video size without losing quality and edit videos on the go.*
+
+#### 🎨 Image Tools
+
+* **🧼 [Remove.bg – Background Remover](https://www.remove.bg/upload)**
+  *Remove image backgrounds instantly using AI.*
+
+#### 📥 Download Tools
+
+* **⬇️ [Download4.cc – YouTube Video Downloader](https://www.download4.cc/youtube-video-downloader.html)**
+  *Download YouTube videos quickly and easily without installing software.*
+
+* **🎧 [SaveFrom.net – YT Downloader](https://en.savefrom.net/387/)**
+  *Another fast and simple option to download YouTube content.*
+
 ---
 
 <a id="recommended-apps"></a>  

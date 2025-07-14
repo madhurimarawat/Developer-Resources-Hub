@@ -126,6 +126,17 @@ A comprehensive collection of valuable resources for developers, covering job pr
 * **✂️ [Smallpdf – Crop Tool](https://smallpdf.com/crop-pdf#r=crop-pages)**
   *Crop and resize PDF pages online — quick and user-friendly.*
 
+### 📣 **Learning & Community Updates**
+
+* [Prompt Engineering & Tech Updates WhatsApp Channel](https://whatsapp.com/channel/0029Vb6ISO1Fsn0kEemhE03b)
+  *Stay updated with the latest in prompt engineering, AI tools, and tech trends.*
+
+### 💼 **Selling Projects & Digital Products**
+
+* **🛒 [Gumroad](https://gumroad.com/)**
+  *A professional platform that empowers creators to monetize their knowledge and digital products, whether it’s code, design assets, or eBooks.*
+  *Just start with what you know, share it with the world, and get paid. Simple and effective.*
+  
 ---
 
 <a id="recommended-apps"></a>  
@@ -238,7 +249,8 @@ Stay connected, explore resources, and boost productivity with these mobile apps
   *Developer news and articles curated from top sources, delivered daily.*
 
 * **⚡ [DevBytes](https://play.google.com/store/apps/details?id=com.candelalabs.devbytes)**
-  *Byte-sized tech content and dev tips to learn something new every day.*
+  *Byte-sized tech content and developer tips to help you learn something new every day.*
+  *A standout feature: it displays the user Streak in the logo to encourage consistent learning.*
 
 * **👩‍💻 [Forem (DEV Community)](https://play.google.com/store/apps/details?id=com.forem.android)**
   *Engage with devs, read blogs, and join discussions right from your phone.*
@@ -336,15 +348,7 @@ Stay connected, explore resources, and boost productivity with these mobile apps
 
 * 📚 [Advanced Database Concepts – ExploreDatabase](https://www.exploredatabase.com/p/advanced-database-concepts.html)
   *Detailed insights on modern database designs and use cases.*
-
-* 🧠 **Additional Learning Resources**
-
-  * [5 Ways to Transition Into AI from Non-Tech Background – KDnuggets](https://www.kdnuggets.com/5-ways-to-transition-into-ai-from-a-non-tech-background)
-  * [5 Free Resources for DS Job Search – KDnuggets](https://www.kdnuggets.com/5-free-resources-to-master-your-data-science-job-search)
-  * [Prompt Engineering & Tech Updates WhatsApp Channel](https://whatsapp.com/channel/0029Vb6ISO1Fsn0kEemhE03b)
-  * [DevBytes (Android App)](https://play.google.com/store/apps/details?id=com.candelalabs.devbytes)
-  * [Cheat Sheets App (Android)](https://play.google.com/store/apps/details?id=com.ivansaul.cheatsheets)
-
+  
 ---
 
 <a id="mariadb"></a>
@@ -395,7 +399,13 @@ Stay connected, explore resources, and boost productivity with these mobile apps
 
 * 🧪 [Assessment Quiz – Know What to Learn Next](https://bit.ly/DS-assessment)
   *Take a quick assessment to identify your weak topics.*
+  
+* 🧠 [5 Ways to Transition Into AI from Non-Tech Background – KDnuggets](https://www.kdnuggets.com/5-ways-to-transition-into-ai-from-a-non-tech-background)
+  *Guidance for shifting into AI and ML roles from a non-technical background.*
 
+* 💼 [5 Free Resources for DS Job Search – KDnuggets](https://www.kdnuggets.com/5-free-resources-to-master-your-data-science-job-search)
+  *Free, curated tools to boost your data science job hunt.*
+  
 ---
 
 <a id="full-stack-development"></a>

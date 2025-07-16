@@ -3,8 +3,8 @@
 A comprehensive collection of valuable resources for developers, covering job preparation, programming, frontend, backend, IoT, databases, and more.
 
 <p align="center">
-<a href="https://github.com/madhurimarawat/Developer-Resources-Hub"><img src="images/developers_resources_hub_illustration.PNG"></a>
-  <a href="https://github.com/madhurimarawat/Developer-Resources-Hub"><img src="images/developers_resources_hub_illustration_dark.PNG"></a>
+<a href="https://github.com/madhurimarawat/Developer-Resources-Hub"><img src="https://github.com/madhurimarawat/Developer-Resources-Hub/raw/main/images/developers_resources_hub_illustration.PNG"></a>
+  <a href="https://github.com/madhurimarawat/Developer-Resources-Hub"><img src="https://github.com/madhurimarawat/Developer-Resources-Hub/raw/main/images/developers_resources_hub_illustration_dark.PNG"></a>
 </p>
 
 <p align="center">

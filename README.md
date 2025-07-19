@@ -93,6 +93,8 @@ A comprehensive collection of valuable resources for developers, covering job pr
 * **📝 [Brag Document – Ace Interviews and Land a Job](https://www.cnbc.com/2025/06/22/how-a-brag-doc-can-help-you-ace-interviews-and-land-a-job-says-recruiter.html)**
   *Use a brag document to track accomplishments and boost your interview confidence.*
 
+---
+
 ### ✍️ Blogging Platforms
 
 *Write articles, share ideas, and grow your developer presence online:*
@@ -115,6 +117,8 @@ A comprehensive collection of valuable resources for developers, covering job pr
 * **🧵 [Bear Blog](https://bearblog.dev/)**
   *A minimalist, privacy-focused blogging platform for developers.*
 
+---
+
 ### 📄 PDF Tools
 
 *Convert, scan, and edit PDFs with these handy tools:*
@@ -136,6 +140,8 @@ A comprehensive collection of valuable resources for developers, covering job pr
 * **🚀 [Product Hunt](https://www.producthunt.com/)**
   *A launch platform for makers to showcase their products and gain traction from a tech-savvy audience.*
   *Perfect for getting feedback, early users, and visibility for your digital creations.*
+  
+---
 
 ### ⚙️ Utility
 
@@ -169,6 +175,27 @@ A comprehensive collection of valuable resources for developers, covering job pr
 
 * **🎧 [SaveFrom.net – YT Downloader](https://en.savefrom.net/387/)**
   *Another fast and simple option to download YouTube content.*
+
+---
+
+### 📈 MLOps & Machine Learning Journeys
+
+*Stay inspired and build real-world skills with these project-based and experience-driven resources:*
+
+* **🔧 [7 MLOps Projects for Beginners – KDnuggets](https://www.kdnuggets.com/7-mlops-projects-beginners):**
+  A beginner-friendly list of hands-on MLOps projects, perfect for learning production workflows and automation.
+
+* **👩‍💻 [How I Became a Machine Learning Engineer – Towards Data Science](https://towardsdatascience.com/how-i-became-a-machine-learning-engineer-no-cs-degree-no-bootcamp/):**
+  Read a self-taught journey into machine learning, without a CS degree or bootcamp, packed with lessons and motivation.
+
+---
+
+### 🧾 Cheatsheets & Quick References
+
+*Boost your productivity with ready-to-use command references:*
+
+* **🔥 [The Ultimate Cheat Sheet – 1000+ Essential Commands](https://dev.to/ramkumar-m-n/the-ultimate-cheat-sheet-1000-essential-commands-growing-all-in-one-place-dont-miss-out-53ep):**
+  A constantly updated mega list of developer commands for terminal, Git, Python, and more - all in one place.
 
 ---
 

@@ -61,6 +61,7 @@ A comprehensive collection of valuable resources for developers, covering job pr
  - [📊 DS Resources](#ds-resources)
  - [🧑‍💻 Full Stack Development](#full-stack-development)
    - [🛠️ Backend](#backend)
+     - [🟩 Node.js](#nodejs)
    - [🎨 Frontend](#frontend)
    - [📚 Books](#books)
    - [📓 Notes](#notes)
@@ -505,6 +506,35 @@ Stay connected, explore resources, and boost productivity with these mobile apps
 * 📄 [Lecture 13 – Backend Development.pdf](Notes/Lecture%2013%20-%20Backend%20Development.pdf)
   *Lecture slides covering backend fundamentals.*
 
+<a id="nodejs"></a>
+### 🟩 Node.js
+
+### 📺 Video Courses
+
+* 🎥 [https://youtu.be/BLl32FvcdVM?si=HaK4EQivFB7XHNCl](https://youtu.be/BLl32FvcdVM?si=HaK4EQivFB7XHNCl)
+  **Node.js Hindi Crash Course**
+
+* 🎞️ [https://youtube.com/playlist?list=PL8p2I9GklV47KZEsbFEfRcM0sUsOMe5Sp&si=OBFXHPeW22Ac5S0e](https://youtube.com/playlist?list=PL8p2I9GklV47KZEsbFEfRcM0sUsOMe5Sp&si=OBFXHPeW22Ac5S0e)
+  **Node.js Hindi Playlist**
+
+* 🧰 [https://youtube.com/playlist?list=PL78RhpUUKSwfeSOOwfE9x6l5jTjn5LbY3&si=c-UwJ_7zoL7t5elq](https://youtube.com/playlist?list=PL78RhpUUKSwfeSOOwfE9x6l5jTjn5LbY3&si=c-UwJ_7zoL7t5elq)
+  **MongoDB + Express + Node.js Playlist**
+
+### 📚 Repositories & Notes
+
+* 📝 [https://github.com/onlyVishesh/Namaste-Nodejs](https://github.com/onlyVishesh/Namaste-Nodejs)
+  **Namaste Node.js Notes**
+
+* 📘 [https://github.com/workshopper/learnyounode](https://github.com/workshopper/learnyounode)
+  **Learn You Node (Workshopper)**
+
+### 🛠️ Project Repositories
+
+* 🚀 [https://github.com/MAshrafM/NodeJS_Projects](https://github.com/MAshrafM/NodeJS_Projects)
+  **Node.js Projects Collection**
+
+* 🏗️ [https://github.com/gothinkster/node-express-realworld-example-app](https://github.com/gothinkster/node-express-realworld-example-app)
+  **Node + Express RealWorld Example App**
 
 ---
 
@@ -791,3 +821,4 @@ No setup needed—just upload your file and convert:
 📫 How to reach me:  &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-madhurima-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/madhurima-rawat/) &nbsp; &nbsp;
 <a href ="mailto:rawatmadhurima@gmail.com"><img src="https://github.com/madhurimarawat/Machine-Learning-Using-Python/assets/105432776/b6a0873a-e961-42c0-8fbf-ab65828c961a" height=35 width=30 title="Mail Illustration" alt="Mail Illustration📫" > </a><br><br>
 - **Contribute and Discuss:** Feel free to open <a href= "https://github.com/madhurimarawat/Developer-Resources-Hub/issues">issues 🐛</a>, submit <a href = "https://github.com/madhurimarawat/Developer-Resources-Hub/pulls">pull requests 🛠️</a>, or start <a href = "https://github.com/madhurimarawat/Developer-Resources-Hub/discussions">discussions 💬</a> to help improve this repository!
+

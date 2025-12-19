@@ -44,7 +44,8 @@ A comprehensive collection of valuable resources for developers, covering job pr
 - <a href="#ai-ml-ds-resources">🧠 AI / ML / DS Resources</a>  
   - <a href="#github-repositories">📂 GitHub Repositories</a>  
   - <a href="#pdf-files">📄 PDF Files</a>  
-  - <a href="#ai-links">🔗 AI / ML / DS Reference Links</a> 
+  - <a href="#ai-links">🔗 AI / ML / DS Reference Links</a>
+  - <a href="#notebooklm">📓 NotebookLM</a>
 - <a href="#ai-art-tools">🎨 AI Art Tools</a>
 - [📲 App Links](#app-links)
 - [🧠 Aptitude & Logical Reasoning](#aptitude--logical-reasoning)
@@ -286,6 +287,15 @@ A comprehensive collection of valuable resources for developers, covering job pr
 
 * 🧪 [DS vs AI vs ML – Rice University](https://csweb.rice.edu/academics/graduate-programs/online-mds/blog/data-science-vs-ai-and-ml)
   *Insights from Rice University into the distinctions between these fields.*
+
+---
+
+<a id="notebooklm"></a>
+### 📓 NotebookLM
+
+- AI-powered research and note-taking tool by Google  
+- Upload PDFs, notes, and research papers to get source-grounded outputs like summaries, PPTs, videos, mind maps, and flashcards—closely aligned with the original content 
+- Useful for exam prep, documentation, and concept understanding
 
 ---
 
@@ -821,4 +831,5 @@ No setup needed—just upload your file and convert:
 📫 How to reach me:  &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-madhurima-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/madhurima-rawat/) &nbsp; &nbsp;
 <a href ="mailto:rawatmadhurima@gmail.com"><img src="https://github.com/madhurimarawat/Machine-Learning-Using-Python/assets/105432776/b6a0873a-e961-42c0-8fbf-ab65828c961a" height=35 width=30 title="Mail Illustration" alt="Mail Illustration📫" > </a><br><br>
 - **Contribute and Discuss:** Feel free to open <a href= "https://github.com/madhurimarawat/Developer-Resources-Hub/issues">issues 🐛</a>, submit <a href = "https://github.com/madhurimarawat/Developer-Resources-Hub/pulls">pull requests 🛠️</a>, or start <a href = "https://github.com/madhurimarawat/Developer-Resources-Hub/discussions">discussions 💬</a> to help improve this repository!
+
 

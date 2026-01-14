@@ -824,6 +824,49 @@ No setup needed—just upload your file and convert:
 
 ---
 
+## 🔧 Extra Resources & Useful Tips
+
+Here are some **helpful tricks and practical hacks** related to commonly used services like Gmail, WhatsApp, and email management.
+
+### 📧 Gmail: Remove Unwanted Email Suggestions
+
+If you have emailed someone once and their address keeps appearing in suggestions, you can remove it by deleting the auto-saved contact:
+
+1. Visit: https://contacts.google.com/other  
+2. This page shows all email addresses you’ve ever interacted with, so if you’ve forgotten someone’s email ID and want to find it again, this page can help.
+3. Find the unwanted contact and remove it.
+
+📌 This is especially useful when the email no longer exists or you can’t find it in Gmail.
+
+### 🤝 WhatsApp: Use Two Numbers in One App
+
+If you have **two phone numbers** and want to use both in WhatsApp on the same phone:
+
+1. Open **WhatsApp** and go to **Settings** (three-dot menu).
+2. Tap the **down arrow** next to your name.
+3. Select **Add account**.
+4. Agree to the terms and verify your **second number**  
+   (requires a separate SIM or eSIM).
+5. You can switch between accounts anytime from **Settings**.
+
+### 📩 Email ID: Smart Email Organization
+
+It’s always a good practice to maintain **three separate email IDs** for better organization:
+
+1. **Official Email**  
+   - For government, college, school, and important documents.
+
+2. **Work / Job Email**  
+   - Dedicated email and phone number for jobs, internships, and professional communication.  
+   - You can link this number to WhatsApp using the method above.
+
+3. **Personal Email**  
+   - For social media, shopping sites, and general web services.
+
+✅ This separation helps with **clarity, security, and better digital organization**.
+
+---
+
 ## Thanks for Visiting 😄
 
 - Drop a 🌟 if you find this repository useful.<br><br>
@@ -831,3 +874,4 @@ No setup needed—just upload your file and convert:
 📫 How to reach me:  &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-madhurima-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/madhurima-rawat/) &nbsp; &nbsp;
 <a href ="mailto:rawatmadhurima4@gmail.com"><img src="https://github.com/madhurimarawat/Machine-Learning-Using-Python/assets/105432776/b6a0873a-e961-42c0-8fbf-ab65828c961a" height=35 width=30 title="Mail Illustration" alt="Mail Illustration📫" > </a><br><br>
 - **Contribute and Discuss:** Feel free to open <a href= "https://github.com/madhurimarawat/Developer-Resources-Hub/issues">issues 🐛</a>, submit <a href = "https://github.com/madhurimarawat/Developer-Resources-Hub/pulls">pull requests 🛠️</a>, or start <a href = "https://github.com/madhurimarawat/Developer-Resources-Hub/discussions">discussions 💬</a> to help improve this repository!
+

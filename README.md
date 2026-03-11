@@ -178,6 +178,12 @@ A comprehensive collection of valuable resources for developers, covering job pr
 * **🎧 [SaveFrom.net – YT Downloader](https://en.savefrom.net/387/)**
   *Another fast and simple option to download YouTube content.*
 
+#### 🧰 Utility Tool
+
+* **🛠️ [Tooly – 100+ Utility Tools App](https://play.google.com/store/apps/details?id=com.yousx.thetoolsapp)**
+  A handy Tooly app that includes **100+ useful tools** such as calculators, text tools, image tools, color pickers, unit converters, and developer utilities.
+  Works **offline** as well, making it a very convenient all-in-one toolkit for everyday tasks.
+
 ---
 
 ### 📈 MLOps & Machine Learning Journeys
@@ -865,6 +871,43 @@ It’s always a good practice to maintain **three separate email IDs** for bette
 
 ✅ This separation helps with **clarity, security, and better digital organization**.
 
+### 📅 LinkedIn Schedule Post: Stay Active Even When Busy
+
+If you are very busy but still want to maintain an **active professional presence**, the **[LinkedIn scheduled post feature](https://www.linkedin.com/feed/?shareActive=true&view=management)** can be a lifesaver.
+
+1. **Use Scheduled Posts**
+
+   * You can schedule posts in advance for **3 weeks or even a full month**.
+   * This helps you stay consistent even when you don’t have time to post regularly.
+
+   **How to schedule a post on LinkedIn:**
+
+   * Click on **“Start a post” / “New post.”**
+   * Write your post or choose **Article / Media / Poll** (whatever you want to publish).
+   * Click the **clock icon (Schedule)** at the bottom.
+   * Select the **date and time**, then confirm to schedule the post.
+
+   **To see all your scheduled posts:**
+
+   * Go to the **Scheduled Post Management page**:
+     [https://www.linkedin.com/feed/?shareActive=true&view=management](https://www.linkedin.com/feed/?shareActive=true&view=management)
+
+2. **Best Days for Professional Engagement**
+
+   * **Tuesday and Wednesday** usually get the **highest engagement for professional posts**.
+   * Ideal posting time: **around 11:00 AM** for better visibility.
+
+3. **Best Timing for Personal Posts**
+
+   * Personal or casual posts often perform well on **Sunday**.
+   * Ideal time: **12:00 PM – 1:00 PM**.
+
+4. **Make Posts More Engaging**
+
+   * Use **GIFs or simple images** to make posts **more eye-catching and engaging**.
+
+✅ Scheduling posts helps you **stay visible, consistent, and professional online** without needing to post every day.
+
 ---
 
 ## Thanks for Visiting 😄
@@ -874,4 +917,5 @@ It’s always a good practice to maintain **three separate email IDs** for bette
 📫 How to reach me:  &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-madhurima-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/madhurima-rawat/) &nbsp; &nbsp;
 <a href ="mailto:rawatmadhurima4@gmail.com"><img src="https://github.com/madhurimarawat/Machine-Learning-Using-Python/assets/105432776/b6a0873a-e961-42c0-8fbf-ab65828c961a" height=35 width=30 title="Mail Illustration" alt="Mail Illustration📫" > </a><br><br>
 - **Contribute and Discuss:** Feel free to open <a href= "https://github.com/madhurimarawat/Developer-Resources-Hub/issues">issues 🐛</a>, submit <a href = "https://github.com/madhurimarawat/Developer-Resources-Hub/pulls">pull requests 🛠️</a>, or start <a href = "https://github.com/madhurimarawat/Developer-Resources-Hub/discussions">discussions 💬</a> to help improve this repository!
+
 

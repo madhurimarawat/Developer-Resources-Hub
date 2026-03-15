@@ -186,6 +186,27 @@ A comprehensive collection of valuable resources for developers, covering job pr
 
 ---
 
+### 📄 Resume Building Tools
+
+*Create clean, professional resumes quickly using these helpful tools and templates:*
+
+* **📱 [Professional Resume Builder App](https://play.google.com/store/apps/details?id=com.hightech.professionalresumes)**
+  *A mobile app with a clean and sleek interface where you simply add your personal details, choose a template, and it automatically formats your resume.*
+
+* **📑 [Jake's Resume - Overleaf Template](https://www.overleaf.com/latex/templates/jakes-resume/syzfjbzwjncs)**
+  *A simple, straight-forward LaTeX resume template published under the MIT License and widely used for professional one-page resumes.*
+
+* **📑 [Harshibar's Resume - Overleaf Template](https://www.overleaf.com/latex/templates/harshibars-resume/sbcyynmtpnyd)**
+  *A clean one-page resume template adapted from Jake's Resume, ideal for minimal and professional layouts.*
+
+* **📄 [Microsoft Word](https://www.microsoft.com/microsoft-365/word)**
+  *You can export the resume as a PDF from Overleaf and convert it into an editable Word document if needed.*
+
+* **🔄 [PDF to Word Converter - iLovePDF](https://www.ilovepdf.com/pdf_to_word)**
+  *Use this tool to convert your Overleaf-generated PDF resume into a Word file for further editing.*
+
+---
+
 ### 📈 MLOps & Machine Learning Journeys
 
 *Stay inspired and build real-world skills with these project-based and experience-driven resources:*

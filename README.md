@@ -861,8 +861,6 @@ No setup needed—just upload your file and convert:
 
 ## 🔧 Extra Resources & Useful Tips
 
-Here are some **helpful tricks and practical hacks** related to commonly used services like Gmail, WhatsApp, and email management.
-
 ### 📧 Gmail: Remove Unwanted Email Suggestions
 
 If you have emailed someone once and their address keeps appearing in suggestions, you can remove it by deleting the auto-saved contact:

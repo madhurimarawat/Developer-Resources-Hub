@@ -184,6 +184,11 @@ A comprehensive collection of valuable resources for developers, covering job pr
   A handy Tooly app that includes **100+ useful tools** such as calculators, text tools, image tools, color pickers, unit converters, and developer utilities.
   Works **offline** as well, making it a very convenient all-in-one toolkit for everyday tasks.
 
+#### ⚙️ Dev Starter Kits
+
+* **🧩 [Essential Template Kit](https://github.com/your-link-here)**
+  *A collection of reusable templates, project structures, and starter setups to speed up development and keep things simple.*
+  
 ---
 
 ### 📄 Resume Building Tools
@@ -245,6 +250,9 @@ A comprehensive collection of valuable resources for developers, covering job pr
 
 * 🗃️ [Anki Flashcards: Android](https://play.google.com/store/apps/details?id=com.ichi2.anki) | [iOS](https://apps.apple.com/app/ankimobile-flashcards/id373493387)  
   *A powerful, spaced-repetition flashcard app ideal for long-term learning and memory retention.**
+
+* 💸 [BudgetFlow - Personal Finance Tracker](https://github.com/madhurimarawat/BudgetFlow)  
+  *A simple, private, and customizable expense tracker built with Python & Streamlit for effortless monthly management.*
 
 ---
 

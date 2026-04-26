@@ -861,7 +861,7 @@ No setup needed—just upload your file and convert:
 
 ## 🔧 Extra Resources & Useful Tips
 
-### 📧 Gmail: Remove Unwanted Email Suggestions
+### 1. 📧 Gmail: Remove Unwanted Email Suggestions
 
 If you have emailed someone once and their address keeps appearing in suggestions, you can remove it by deleting the auto-saved contact:
 
@@ -871,7 +871,7 @@ If you have emailed someone once and their address keeps appearing in suggestion
 
 📌 This is especially useful when the email no longer exists or you can’t find it in Gmail.
 
-### 🤝 WhatsApp: Use Two Numbers in One App
+### 2. 🤝 WhatsApp: Use Two Numbers in One App
 
 If you have **two phone numbers** and want to use both in WhatsApp on the same phone:
 
@@ -882,7 +882,7 @@ If you have **two phone numbers** and want to use both in WhatsApp on the same p
    (requires a separate SIM or eSIM).
 5. You can switch between accounts anytime from **Settings**.
 
-### 📩 Email ID: Smart Email Organization
+### 3. 📩 Email ID: Smart Email Organization
 
 It’s always a good practice to maintain **three separate email IDs** for better organization:
 
@@ -898,7 +898,7 @@ It’s always a good practice to maintain **three separate email IDs** for bette
 
 ✅ This separation helps with **clarity, security, and better digital organization**.
 
-### 📅 LinkedIn Schedule Post: Stay Active Even When Busy
+### 4. 📅 LinkedIn Schedule Post: Stay Active Even When Busy
 
 If you are very busy but still want to maintain an **active professional presence**, the **[LinkedIn scheduled post feature](https://www.linkedin.com/feed/?shareActive=true&view=management)** can be a lifesaver.
 
@@ -934,6 +934,18 @@ If you are very busy but still want to maintain an **active professional presenc
    * Use **GIFs or simple images** to make posts **more eye-catching and engaging**.
 
 ✅ Scheduling posts helps you **stay visible, consistent, and professional online** without needing to post every day.
+
+### 5. 🔓 Google Authenticator
+
+> [!NOTE]
+> If you struggle to remember passwords or SMS codes don’t arrive (especially for apps like GitHub), it’s better to use an authenticator app. Since it works locally on your device, it’s reliable and usually works smoothly 👍
+
+Also, if you delete your account, it will **not be removed automatically** from the authenticator app. You’ll need to delete it manually:
+
+* On Android: swipe left to delete and right to edit
+* Or long-press the entry / use the three dots menu to remove it
+
+For GitHub, using an authenticator app is one of the most recommended and secure options.
 
 ---
 

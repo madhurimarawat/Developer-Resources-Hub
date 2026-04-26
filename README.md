@@ -2,7 +2,7 @@
 
 A comprehensive collection of valuable resources for developers, covering job preparation, programming, frontend, backend, IoT, databases, and more.
 
-It also covers all the little-to-big annoyances you might face, like not being able to find Google Authenticator, how to delete an account entry, or how to add multiple accounts. I keep adding solutions to every small problem or workaround I come across.
+It also covers all the little-to-big annoyances you might face, like not being able to find on Google Authenticator, how to delete an account entry, or how to add multiple accounts in whatsapp or email. I keep adding solutions to every small problem or workaround I come across.
 
 > [!TIP]
 > You can also open an issue (https://github.com/madhurimarawat/Developer-Resources-Hub/issues) or submit a PR (https://github.com/madhurimarawat/Developer-Resources-Hub/pulls) if you have faced a problem or found a useful workaround.

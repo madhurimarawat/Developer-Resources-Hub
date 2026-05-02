@@ -952,6 +952,16 @@ Also, if you delete your account, it will **not be removed automatically** from 
 
 For GitHub, using an authenticator app is one of the most recommended and secure options.
 
+### 6. 📁 Digital & Physical Organization Resources
+
+If you want to organize your documents, folders, or notes efficiently, explore these guides:
+
+1. Visit: [Digital Document Organization](https://github.com/madhurimarawat/Essential-Templates-Kit/tree/main/Digital_Document_Organization)  
+2. For physical document organization: [Document Organization](https://github.com/madhurimarawat/Essential-Templates-Kit/tree/main/Document_Organization)  
+3. For notebook organization: [Notebook Organization](https://github.com/madhurimarawat/Essential-Templates-Kit/tree/main/Notebook_Organization)  
+
+📌 These resources help you build a clean, consistent, and easy-to-maintain system.
+
 ---
 
 ## Thanks for Visiting 😄

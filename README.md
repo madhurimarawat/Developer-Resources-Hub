@@ -83,6 +83,7 @@ It also covers all the little-to-big annoyances you might face, like not being a
 - [🌐 Study Resources](#study-resources)
 - [📊 SAS Programming](#sas-programming)
 - [🧾 HTML to PDF Conversion](#-html-to-pdf-conversion)
+- [💰 Budget Management Apps](#-budget-management-apps)
 
 ---
 
@@ -861,6 +862,43 @@ No setup needed—just upload your file and convert:
 
 * 🌐 [Sejda HTML to PDF](https://www.sejda.com/html-to-pdf)
 * 🌐 [PDFCrowd](https://www.pdfcrowd.com/)
+
+---
+
+<a id="budget-management-apps"></a>
+
+## 💰 Budget Management Apps
+
+Managing your **salary and budget** properly is critical for staying financially stable and stress-free. Here are some simple yet powerful tools to help you stay on track.
+
+### 1. 📱 Mobile Apps (Play Store)
+
+#### 🎨 1. Visual & Category-Friendly Tracker
+
+🔗 [https://play.google.com/store/apps/details?id=com.freeman.moneymanager](https://play.google.com/store/apps/details?id=com.freeman.moneymanager)
+
+* Cute, colorful UI
+* Custom categories with icons 🎯
+* Easy expense classification
+* Great for quick daily tracking
+
+#### 💼 2. Account-Based Money Manager
+
+🔗 [https://play.google.com/store/apps/details?id=com.raha.app.mymoney.free](https://play.google.com/store/apps/details?id=com.raha.app.mymoney.free)
+
+* Separate **accounts** (salary, card, cash, etc.)
+* Tracks both **income & expenses**
+* Custom categories supported
+* Better for structured financial planning
+
+### 2. 🖥️ Streamlit App (Custom Solution)
+
+#### 🚀 BudgetFlow
+
+🔗 [https://github.com/madhurimarawat/BudgetFlow](https://github.com/madhurimarawat/BudgetFlow)
+
+A **simple, private, and customizable** personal finance tracker built with Python & Streamlit. Efficiently manage finances with separate event tracking, consistent monthly logging, and structured salary handling for clean, reliable data.
+Supports yearly & long-term analysis with secure backup strategies, ensuring clear insights and data safety over time.
 
 ---
 

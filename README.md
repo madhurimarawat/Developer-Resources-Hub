@@ -201,6 +201,7 @@ It also covers all the little-to-big annoyances you might face, like not being a
 
 *Create clean, professional resumes quickly using these helpful tools and templates:*
 
+* **✅ [ResumeAI](https://withresumeai.com/ats-checker)** — Free ATS resume checker (3/day anonymous, 10/day free account) and open [State of ATS 2026](https://withresumeai.com/reports/state-of-ats-2026) dataset (738 employers, Workday 37.9%).
 * **📱 [Professional Resume Builder App](https://play.google.com/store/apps/details?id=com.hightech.professionalresumes)**
   *A mobile app with a clean and sleek interface where you simply add your personal details, choose a template, and it automatically formats your resume.*
 

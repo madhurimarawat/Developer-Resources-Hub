@@ -200,6 +200,7 @@ Convert, scan, edit, organize, and manage PDFs with these handy tools:
 
 #### 💻 Developer Tools
 
+- **🧪 [agent-qa](https://vostride.com)**: Run natural-language web and mobile tests through CLI or MCP, with memidex persistent memory, validated self-improvement, and reviewable run evidence.
 - **🔍 [BestJSON JSON Diff](https://bestjson.com/json-diff)**: Compare JSON API responses and inspect added, removed, or changed values by path, with positional, unordered, and record-ID array comparison modes.
   
 #### ⚙️ Dev Starter Kits

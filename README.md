@@ -434,6 +434,8 @@ What is decentralization? Why is it essential to blockchain technology? Learn ke
 
 - **[📚 Advanced Database Concepts - ExploreDatabase](https://www.exploredatabase.com/p/advanced-database-concepts.html)**: Detailed insights on modern database designs and use cases.
 
+- **[📘 Choosing the Right Database for a Web Application - Xlinesoft](https://xlinesoft.com/solution-center/choose-database-web-application.htm)**: Free-to-read guide comparing database choices by hosting, maintenance, cost and application requirements. Published by Xlinesoft, the maker of PHPRunner.
+
 ---
 
 <a id="mariadb"></a>

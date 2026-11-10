@@ -2,16 +2,6 @@
 
 A comprehensive collection of valuable resources for developers, covering job preparation, programming, frontend, backend, IoT, databases, and more.
 
-It also covers all the little-to-big annoyances you might face, like not being able to find on Google Authenticator, how to delete an account entry, or how to add multiple accounts in whatsapp or email. I keep adding solutions to every small problem or workaround I come across.
-
-> [!TIP]
-> You can also open an issue (https://github.com/madhurimarawat/Developer-Resources-Hub/issues) or submit a PR (https://github.com/madhurimarawat/Developer-Resources-Hub/pulls) if you have faced a problem or found a useful workaround.
-
-<p align="center">
-<a href="https://github.com/madhurimarawat/Developer-Resources-Hub"><img src="https://github.com/madhurimarawat/Developer-Resources-Hub/raw/main/images/developers_resources_hub_illustration.PNG"></a>
-  <a href="https://github.com/madhurimarawat/Developer-Resources-Hub"><img src="https://github.com/madhurimarawat/Developer-Resources-Hub/raw/main/images/developers_resources_hub_illustration_dark.PNG"></a>
-</p>
-
 <p align="center">
   <a href="https://github.com/madhurimarawat/Developer-Resources-Hub/stargazers">
     <img src="https://img.shields.io/github/stars/madhurimarawat/Developer-Resources-Hub?style=flat-square&color=ffb6c1" alt="GitHub Stars" />
@@ -27,6 +17,28 @@ It also covers all the little-to-big annoyances you might face, like not being a
   </a>
   <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4-lightpink?style=flat-square" alt="Made with Love" />
   <img src="https://img.shields.io/badge/Topics-40%2B-lightblue?style=flat-square" alt="Topics Covered" />
+  <a href="https://github.com/madhurimarawat/Developer-Resources-Hub/pulls?q=is%3Apr+is%3Aclosed">
+  <img src="https://img.shields.io/github/issues-pr-closed/madhurimarawat/Developer-Resources-Hub?style=flat-square&color=98fb98" alt="Closed PRs" />
+</a>
+<a href="https://github.com/madhurimarawat/Developer-Resources-Hub/pulls?q=is%3Apr+is%3Aopen">
+  <img src="https://img.shields.io/github/issues-pr/madhurimarawat/Developer-Resources-Hub?style=flat-square&color=87cefa" alt="Open PRs" />
+</a>
+<a href="https://github.com/madhurimarawat/Developer-Resources-Hub/issues?q=is%3Aissue+is%3Aclosed">
+  <img src="https://img.shields.io/github/issues-closed/madhurimarawat/Developer-Resources-Hub?style=flat-square&color=dda0dd" alt="Closed Issues" />
+</a>
+<a href="https://github.com/madhurimarawat/Developer-Resources-Hub/issues">
+  <img src="https://img.shields.io/github/issues/madhurimarawat/Developer-Resources-Hub?style=flat-square&color=ffb6c1" alt="Open Issues" />
+</a>
+</p>
+
+It also covers all the little-to-big annoyances you might face, like not being able to find on Google Authenticator, how to delete an account entry, or how to add multiple accounts in whatsapp or email. I keep adding solutions to every small problem or workaround I come across.
+
+> [!TIP]
+> You can also open an issue (https://github.com/madhurimarawat/Developer-Resources-Hub/issues) or submit a PR (https://github.com/madhurimarawat/Developer-Resources-Hub/pulls) if you have faced a problem or found a useful workaround.
+
+<p align="center">
+<a href="https://github.com/madhurimarawat/Developer-Resources-Hub"><img src="https://github.com/madhurimarawat/Developer-Resources-Hub/raw/main/images/developers_resources_hub_illustration.PNG"></a>
+  <a href="https://github.com/madhurimarawat/Developer-Resources-Hub"><img src="https://github.com/madhurimarawat/Developer-Resources-Hub/raw/main/images/developers_resources_hub_illustration_dark.PNG"></a>
 </p>
 
 **Developer Resources Hub** brings together well-structured guides, tutorials, and reference materials across key domains in software development:

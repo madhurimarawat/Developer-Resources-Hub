@@ -215,6 +215,7 @@ Convert, scan, edit, organize, and manage PDFs with these handy tools:
 - **🧪 [agent-qa](https://vostride.com)**: Run natural-language web and mobile tests through CLI or MCP, with memidex persistent memory, validated self-improvement, and reviewable run evidence.
 - **🔍 [BestJSON JSON Diff](https://bestjson.com/json-diff)**: Compare JSON API responses and inspect added, removed, or changed values by path, with positional, unordered, and record-ID array comparison modes.
 - **📊 [Datacircle API](https://api.datacircle.dev/v1)**: Find the best GTM APIs. We benchmark all the GTM APIs and we put the results on our website, [datacircle.dev](https://datacircle.dev).
+- **🎬 [GetYouTubeTranscript API](https://getyoutubetranscript.com/docs)**: Fetch YouTube video transcripts as JSON or text with timestamps, and search videos and channels, over REST or a hosted MCP server; 100 free credits on sign-up.
   
 #### ⚙️ Dev Starter Kits
 

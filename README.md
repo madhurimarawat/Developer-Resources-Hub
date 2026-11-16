@@ -216,6 +216,7 @@ Convert, scan, edit, organize, and manage PDFs with these handy tools:
 - **🔍 [BestJSON JSON Diff](https://bestjson.com/json-diff)**: Compare JSON API responses and inspect added, removed, or changed values by path, with positional, unordered, and record-ID array comparison modes.
 - **📊 [Datacircle API](https://api.datacircle.dev/v1)**: Find the best GTM APIs. We benchmark all the GTM APIs and we put the results on our website, [datacircle.dev](https://datacircle.dev).
 - **🎬 [GetYouTubeTranscript API](https://getyoutubetranscript.com/docs)**: Fetch YouTube video transcripts as JSON or text with timestamps, and search videos and channels, over REST or a hosted MCP server; 100 free credits on sign-up.
+- **🌐 [easi.run](https://easi.run)**: Self-hosted Chrome browser infrastructure for external AI agents via MCP or REST, with live browser viewing and human takeover for logins, 2FA, and approvals. The connected AI agent provides reasoning; easi.run provides browser execution. Licensed under AGPL-3.0.
   
 #### ⚙️ Dev Starter Kits
 

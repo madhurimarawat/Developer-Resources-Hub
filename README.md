@@ -49,6 +49,190 @@ It also covers all the little-to-big annoyances you might face, like not being a
 * 📡 **IoT (Internet of Things)**  Architectures, protocols, and application-level references  
 * 🗄️ **Databases** - SQL/NoSQL fundamentals, query optimization, and schema design  
 
+<div align="center">
+  
+<h3 align="center">🧭 Explore Developer Resources</h3>
+
+<table>
+  <tr>
+    <td align="center" width="120">
+      <a href="#useful-links">
+        <img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" width="45" height="45" alt="Useful Links">
+        <br>🔗 Useful Links
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="#recommended-apps">
+        <img src="https://cdn-icons-png.flaticon.com/512/906/906334.png" width="45" height="45" alt="Notes and Apps">
+        <br>📱 Notes & Apps
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="#free-courses">
+        <img src="https://cdn-icons-png.flaticon.com/512/2436/2436636.png" width="45" height="45" alt="Free Courses">
+        <br>📚 Free Courses
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="#books-and-references">
+        <img src="https://cdn-icons-png.flaticon.com/512/3389/3389081.png" width="45" height="45" alt="Books">
+        <br>📘 Books
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="#ai-ml-ds-resources">
+        <img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="45" height="45" alt="AI ML DS">
+        <br>🧠 AI / ML / DS
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="#ai-art-tools">
+        <img src="https://cdn-icons-png.flaticon.com/512/3097/3097980.png" width="45" height="45" alt="AI Art">
+        <br>🎨 AI Art Tools
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <a href="#app-links">
+        <img src="https://cdn-icons-png.flaticon.com/512/888/888857.png" width="45" height="45" alt="Apps">
+        <br>📲 App Links
+      </a>
+    </td>
+    <td align="center">
+      <a href="#aptitude--logical-reasoning">
+        <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="45" height="45" alt="Aptitude">
+        <br>🧠 Aptitude
+      </a>
+    </td>
+    <td align="center">
+      <a href="#blockchain">
+        <img src="https://cdn-icons-png.flaticon.com/512/6001/6001368.png" width="45" height="45" alt="Blockchain">
+        <br>⛓️ Blockchain
+      </a>
+    </td>
+    <td align="center">
+      <a href="#coding-questions">
+        <img src="https://cdn-icons-png.flaticon.com/512/1005/1005141.png" width="45" height="45" alt="Coding">
+        <br>📘 Coding Questions
+      </a>
+    </td>
+    <td align="center">
+      <a href="#custom-gpts">
+        <img src="https://cdn-icons-png.flaticon.com/512/4712/4712027.png" width="45" height="45" alt="Custom GPTs">
+        <br>🤖 Custom GPTs
+      </a>
+    </td>
+    <td align="center">
+      <a href="#databases">
+        <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" width="45" height="45" alt="Databases">
+        <br>🗄️ Databases
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <a href="#ds-resources">
+        <img src="https://cdn-icons-png.flaticon.com/512/2103/2103658.png" width="45" height="45" alt="Data Science">
+        <br>📊 Data Science
+      </a>
+    </td>
+    <td align="center">
+      <a href="#full-stack-development">
+        <img src="https://cdn-icons-png.flaticon.com/512/1005/1005141.png" width="45" height="45" alt="Full Stack">
+        <br>🧑‍💻 Full Stack
+      </a>
+    </td>
+    <td align="center">
+      <a href="#graphic-designing">
+        <img src="https://cdn-icons-png.flaticon.com/512/2919/2919600.png" width="45" height="45" alt="Graphic Design">
+        <br>🧾 Graphic Design
+      </a>
+    </td>
+    <td align="center">
+      <a href="#iot-resources">
+        <img src="https://cdn-icons-png.flaticon.com/512/1087/1087840.png" width="45" height="45" alt="IoT">
+        <br>📡 IoT
+      </a>
+    </td>
+    <td align="center">
+      <a href="#linux-guides">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45" alt="Linux">
+        <br>🐧 Linux
+      </a>
+    </td>
+    <td align="center">
+      <a href="#llm-resources">
+        <img src="https://cdn-icons-png.flaticon.com/512/4712/4712027.png" width="45" height="45" alt="LLM">
+        <br>🧠 LLM
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <a href="#power-bi">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="45" height="45" alt="Power BI">
+        <br>📊 Power BI
+      </a>
+    </td>
+    <td align="center">
+      <a href="#go-programming">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="45" height="45" alt="Go">
+        <br>🧩 Go
+      </a>
+    </td>
+    <td align="center">
+      <a href="#kotlin-programming">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="45" height="45" alt="Kotlin">
+        <br>📱 Kotlin
+      </a>
+    </td>
+    <td align="center">
+      <a href="#python-programming">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python">
+        <br>🐍 Python
+      </a>
+    </td>
+    <td align="center">
+      <a href="#rust-programming">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="45" height="45" alt="Rust">
+        <br>🦀 Rust
+      </a>
+    </td>
+    <td align="center">
+      <a href="#study-resources">
+        <img src="https://cdn-icons-png.flaticon.com/512/2436/2436636.png" width="45" height="45" alt="Study">
+        <br>🌐 Study Resources
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <a href="#sas-programming">
+        <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" width="45" height="45" alt="SAS">
+        <br>📊 SAS
+      </a>
+    </td>
+    <td align="center">
+      <a href="#-html-to-pdf-conversion">
+        <img src="https://cdn-icons-png.flaticon.com/512/337/337946.png" width="45" height="45" alt="PDF">
+        <br>🧾 HTML to PDF
+      </a>
+    </td>
+    <td align="center">
+      <a href="#-budget-management-apps">
+        <img src="https://cdn-icons-png.flaticon.com/512/3135/3135706.png" width="45" height="45" alt="Budget">
+        <br>💰 Budget Apps
+      </a>
+    </td>
+  </tr>
+</table>
+</div>
+
 ---
 
 <a id="table-of-contents"></a>  

@@ -230,6 +230,8 @@ Create clean, professional resumes quickly using these helpful tools and templat
 
 - **✅ [ResumeAI](https://withresumeai.com/ats-checker)**: Free ATS resume checker (3/day anonymous, 10/day free account) and open [State of ATS 2026](https://withresumeai.com/reports/state-of-ats-2026) dataset (738 employers, Workday 37.9%).
 
+- **✅ [CheckATS](https://checkats.app/)**: Checks a resume for ATS formatting issues and missing keywords against a job description.
+
 - **📱 [Professional Resume Builder App](https://play.google.com/store/apps/details?id=com.hightech.professionalresumes)**: A mobile app with a clean and sleek interface where you simply add your personal details, choose a template, and it automatically formats your resume.
 
 - **📑 [Jake's Resume - Overleaf Template](https://www.overleaf.com/latex/templates/jakes-resume/syzfjbzwjncs)**: A simple, straightforward LaTeX resume template published under the MIT License and widely used for professional one-page resumes.

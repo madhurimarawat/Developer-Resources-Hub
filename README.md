@@ -174,7 +174,7 @@ It also covers all the little-to-big annoyances you might face, like not being a
   <tr>
     <td align="center">
       <a href="#power-bi">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="45" height="45" alt="Power BI">
+        <img src="https://trainingasia.com.my/images/Microsoft_Power_BI.webp" width="45" height="45" alt="Power BI">
         <br>📊 Power BI
       </a>
     </td>

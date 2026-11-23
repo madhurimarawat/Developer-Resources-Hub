@@ -293,6 +293,7 @@ Boost your visibility and career growth with these essential resources:
 
 - **🧑‍💼 [Mastering LinkedIn - Tips for Building Your Profile and Networking](https://www.msn.com/en-in/entertainment/hollywood/mastering-linkedin-tips-for-building-your-profile-and-networking/ss-BB1muOwj)**: Learn how to optimize your LinkedIn profile and expand your professional network.
 - **📝 [Brag Document - Ace Interviews and Land a Job](https://www.cnbc.com/2025/06/22/how-a-brag-doc-can-help-you-ace-interviews-and-land-a-job-says-recruiter.html)**: Use a brag document to track accomplishments and boost your interview confidence.
+- **🎤 [Aethel - Free AI Interview Practice](https://aethel.pro/practice)**: Practice four interview questions for your developer role and level, with a quick check on each answer. No account needed.
 
 ---
 

@@ -53,6 +53,7 @@ It also covers all the little-to-big annoyances you might face, like not being a
   
 <h3 align="center">🧭 Explore Developer Resources</h3>
 
+
 <table>
   <tr>
     <td align="center" width="120">
@@ -229,8 +230,15 @@ It also covers all the little-to-big annoyances you might face, like not being a
         <br>💰 Budget Apps
       </a>
     </td>
+    <td align="center">
+      <a href="#-markdown-guides-and-references">
+        <img src="https://cdn-icons-png.flaticon.com/512/9755/9755793.png" width="45" height="45" alt="Markdown Guides">
+        <br>📝 Markdown
+      </a>
+    </td>
   </tr>
 </table>
+
 </div>
 
 ---
@@ -280,6 +288,7 @@ It also covers all the little-to-big annoyances you might face, like not being a
 - [📊 SAS Programming](#sas-programming)
 - [🧾 HTML to PDF Conversion](#-html-to-pdf-conversion)
 - [💰 Budget Management Apps](#-budget-management-apps)
+- [📝 Markdown Guides & References](#-markdown-guides-and-references)
 
 ---
 
@@ -1078,6 +1087,27 @@ Managing your **salary and budget** properly is critical for staying financially
 
 A **simple, private, and customizable** personal finance tracker built with Python & Streamlit. Efficiently manage finances with separate event tracking, consistent monthly logging, and structured salary handling for clean, reliable data.
 Supports yearly & long-term analysis with secure backup strategies, ensuring clear insights and data safety over time.
+
+---
+
+<a id="markdown-guides-and-references"></a>
+### 📝 Markdown Guides and References
+
+- **📘 [GitHub Markdown: Basic Writing and Formatting Syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)**: Official GitHub documentation covering Markdown basics, headings, text formatting, lists, links, images, tables, and more.
+
+- **📝 [Markdown Cheatsheet - im-luka](https://github.com/im-luka/markdown-cheatsheet)**: A handy Markdown cheat sheet with practical syntax examples and formatting references.
+
+- **📋 [GitHub Markdown Cheat Sheet - MarkdownTools](https://www.markdowntools.io/github-markdown-cheat-sheet)**: Quick reference for commonly used GitHub Markdown syntax and formatting.
+
+- **🖼️ [GitHub Markdown Cheatsheet - Visual Reference](https://www.tomarkdown.org/guides/github_markdown_cheatsheet.png)**: Visual Markdown cheat sheet covering essential GitHub Markdown syntax.
+
+- **📚 [Markdown Advanced Guide](https://www.markdownlang.com/advanced/)**: Explore advanced Markdown syntax, formatting techniques, and extended Markdown features.
+
+- **📖 [Markdown Cheatsheet - MarkdownLang](https://www.markdownlang.com/cheatsheet/)**: Comprehensive Markdown syntax reference for quick learning and everyday use.
+
+- **🌐 [Markdown Advanced Features Across Platforms](https://www.tomarkdown.org/guides/markdown-advanced)**: Learn about advanced Markdown features and their support across different platforms, including GitHub, Bitbucket, and Notion.
+
+- **📊 [Markdown Platform Features Comparison](https://www.tomarkdown.org/guides/markdown_platform_features.png)**: Visual comparison of Markdown feature support across different platforms.
 
 ---
 

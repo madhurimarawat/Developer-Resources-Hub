@@ -253,7 +253,9 @@ It also covers all the little-to-big annoyances you might face, like not being a
     <br>💡 Project Ideas
   </a>
 </td>
-<td align="center">
+  </tr>
+
+  <tr><td align="center">
   <a href="#-developer-tools-and-resources">
     <img src="https://cdn-icons-png.flaticon.com/512/9496/9496161.png"
          width="45"
@@ -261,9 +263,7 @@ It also covers all the little-to-big annoyances you might face, like not being a
          alt="Developer Tools & Resources">
     <br>🛠️ Developer Tools
   </a>
-</td>
-
-  </tr>
+</td></tr>
 </table>
 
 </div>

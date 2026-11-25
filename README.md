@@ -1197,6 +1197,13 @@ Boost your productivity with ready-to-use command references:
 
 - **🧰 [Uplatz - Developer Cheat Sheets](https://uplatz.com/cheatsheets/)**: Free, searchable quick references for Git, Python, SQL, Docker, Kubernetes, Linux, Bash, and other developer tools, with copyable commands.
 
+### **☁️ Cloud Computing**
+
+Explore cloud computing concepts and resources for understanding AWS services, setting up virtual machines and S3, and simulating cloud environments locally using LocalStack.
+
+- **☁️ [Cloud Computing – GitHub Repository](https://github.com/madhurimarawat/Cloud-Computing)**: Learn how to set up and experiment with AWS services, including virtual machines and S3, using LocalStack for local cloud development and testing.
+- **📚 [Cloud Computing Tutorial Series – DEV Community](https://dev.to/madhurima_rawat/series/31049**: Follow a hands-on tutorial series covering cloud computing concepts and practical implementations of AWS services using LocalStack.
+
 ---
 
 ## 🔧 Extra Resources & Useful Tips

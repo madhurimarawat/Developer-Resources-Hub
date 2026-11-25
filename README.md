@@ -53,7 +53,6 @@ It also covers all the little-to-big annoyances you might face, like not being a
   
 <h3 align="center">🧭 Explore Developer Resources</h3>
 
-
 <table>
   <tr>
     <td align="center" width="120">
@@ -235,7 +234,35 @@ It also covers all the little-to-big annoyances you might face, like not being a
         <img src="https://cdn-icons-png.flaticon.com/512/9755/9755793.png" width="45" height="45" alt="Markdown Guides">
         <br>📝 Markdown
       </a>
-    </td>
+    </td> 
+<td align="center">
+  <a href="#-my-curated-github-stars-collections">
+    <img src="https://www.iconpacks.net/icons/2/free-shining-star-icon-2776-thumb.png"
+         width="45"
+         height="45"
+         alt="GitHub Stars Collection">
+    <br>🌟 GitHub Stars
+  </a>
+</td>
+<td align="center">
+  <a href="#-project-ideas-and-inspiration">
+    <img src="https://cdn-icons-png.flaticon.com/512/7561/7561055.png"
+         width="45"
+         height="45"
+         alt="Project Ideas & Inspiration">
+    <br>💡 Project Ideas
+  </a>
+</td>
+<td align="center">
+  <a href="#-developer-tools-and-resources">
+    <img src="https://cdn-icons-png.flaticon.com/512/9496/9496161.png"
+         width="45"
+         height="45"
+         alt="Developer Tools & Resources">
+    <br>🛠️ Developer Tools
+  </a>
+</td>
+
   </tr>
 </table>
 
@@ -289,6 +316,9 @@ It also covers all the little-to-big annoyances you might face, like not being a
 - [🧾 HTML to PDF Conversion](#-html-to-pdf-conversion)
 - [💰 Budget Management Apps](#-budget-management-apps)
 - [📝 Markdown Guides & References](#-markdown-guides-and-references)
+- [🌟 My Curated GitHub Stars Collection](#-my-curated-github-stars-collections)
+- [💡 Project Ideas & Inspiration](#-project-ideas-and-inspiration)
+- [🛠️ Developer Tools & Resources](#-developer-tools-and-resources)
 
 ---
 
@@ -403,19 +433,7 @@ Convert, scan, edit, organize, and manage PDFs with these handy tools:
 
 - **🛠️ [Tooly - 100+ Utility Tools App](https://play.google.com/store/apps/details?id=com.yousx.thetoolsapp)**: A handy Tooly app that includes **100+ useful tools** such as calculators, text tools, image tools, color pickers, unit converters, and developer utilities.
   - Works **offline** as well, making it a very convenient all-in-one toolkit for everyday tasks.
-
-#### 💻 Developer Tools
-
-- **🧪 [agent-qa](https://vostride.com)**: Run natural-language web and mobile tests through CLI or MCP, with memidex persistent memory, validated self-improvement, and reviewable run evidence.
-- **🔍 [BestJSON JSON Diff](https://bestjson.com/json-diff)**: Compare JSON API responses and inspect added, removed, or changed values by path, with positional, unordered, and record-ID array comparison modes.
-- **📊 [Datacircle API](https://api.datacircle.dev/v1)**: Find the best GTM APIs. We benchmark all the GTM APIs and we put the results on our website, [datacircle.dev](https://datacircle.dev).
-- **🎬 [GetYouTubeTranscript API](https://getyoutubetranscript.com/docs)**: Fetch YouTube video transcripts as JSON or text with timestamps, and search videos and channels, over REST or a hosted MCP server; 100 free credits on sign-up.
-- **🌐 [easi.run](https://easi.run)**: Self-hosted Chrome browser infrastructure for external AI agents via MCP or REST, with live browser viewing and human takeover for logins, 2FA, and approvals. The connected AI agent provides reasoning; easi.run provides browser execution. Licensed under AGPL-3.0.
   
-#### ⚙️ Dev Starter Kits
-
-- **🧩 [Essential Template Kit](https://github.com/your-link-here)**: A collection of reusable templates, project structures, and starter setups to speed up development and keep things simple.
-
 ---
 
 ### 📄 Resume Building Tools
@@ -448,24 +466,8 @@ Stay inspired and build real-world skills with these project-based and experienc
   
 ---
 
-### 🧾 Cheatsheets & Quick References
-
-Boost your productivity with ready-to-use command references:
-
-- **🔥 [The Ultimate Cheat Sheet - 1000+ Essential Commands](https://dev.to/ramkumar-m-n/the-ultimate-cheat-sheet-1000-essential-commands-growing-all-in-one-place-dont-miss-out-53ep)**: A constantly updated mega list of developer commands for terminal, Git, Python, and more - all in one place.
-  
-- **📚 [Devhints - Developer Cheatsheets](https://devhints.io/)**: A broad collection of concise cheat sheets for programming languages, frameworks, command-line tools, JavaScript, React, Docker, Bash, and more.
-
-- **:octocat: [Git Cheat Sheet - GitHub Docs](https://docs.github.com/en/get-started/git-basics/git-cheatsheet)**: A handy reference for everyday Git commands, including commits, branches, remotes, staging, and managing changes.
-
-- **🐧 [Linux Commands Cheatsheet - Linuxize](https://linuxize.com/cheatsheet/linux-commands/)**: A practical reference for Linux terminal commands covering file management, permissions, searching, processes, networking, and archives.
-
-- **🧰 [Uplatz - Developer Cheat Sheets](https://uplatz.com/cheatsheets/)**: Free, searchable quick references for Git, Python, SQL, Docker, Kubernetes, Linux, Bash, and other developer tools, with copyable commands.
-  
----
-
  <a id="recommended-apps"></a>
-### 📱 Notes and To-do Lists
+## 📱 Notes and To-do Lists
 
 - **✅ [To-do List - Daily Planner: Android](https://play.google.com/store/apps/details?id=todolist.scheduleplanner.dailyplanner.todo.reminders&referrer=utm_source%3Duser_share) | [iOS](https://apps.apple.com/app/apple-store/id1640609657?pt=123351739&ct=andrshare&mt=8)**: A clean and simple task scheduler and planner for daily productivity.
 - **🗒️ [EasyNotes - Notes & Reminders: Android](https://bit.ly/EasyNotesApp) | [iOS](https://bit.ly/EasyNotesiOSApp)**: Colorful notepad for text and photo notes.
@@ -477,7 +479,7 @@ Boost your productivity with ready-to-use command references:
 ---
 
 <a id="free-courses"></a>
-### 📚 Free Courses
+## 📚 Free Courses
 
 - **🎓 [Simplilearn Dashboard](https://lms.simplilearn.com/dashboard)**: Access your free courses and certifications.
 - **📘 [Alison](https://alison.com/)**: Explore free online diploma and certificate courses.
@@ -488,7 +490,7 @@ Boost your productivity with ready-to-use command references:
 ---
 
 <a id="books-and-references"></a>
-### 📘 Books & References
+## 📘 Books & References
 
 - **📖 [PDFDrive](https://www.pdfdrive.to/)**: Free downloadable eBooks in various domains.
 - **🌊 [OceanOfPDF](https://theoceanofpdf.com/)**: Library of novels, textbooks, and learning PDFs.
@@ -509,8 +511,6 @@ Boost your productivity with ready-to-use command references:
 - **🎯 [ML Interview Questions](https://github.com/khangich/machine-learning-interview)**: Comprehensive ML interview prep.
 - **📚 [RGPV BTech Notes](https://btech-notes.rgpvnotes.in/?m=1#home)**: Engineering study notes and references.
 
----
-
 <a id="pdf-files"></a>
 ### 📄 PDF Files
 
@@ -523,8 +523,6 @@ Boost your productivity with ready-to-use command references:
 - **📄 [Difference Between DS AI AND DL.pdf](AI%20ML%20DS/Difference%20Between%20DS%20AI%20AND%20DL.pdf)**: Distinguishes Data Science, AI, and Deep Learning.
 - **📄 [Difference Between DS AI AND ML.pdf](AI%20ML%20DS/Difference%20Between%20DS%20AI%20AND%20ML.pdf)**: Clarifies the overlap and differences among fields.
 - **📄 [Difference Between DS AI AND ML-2.pdf](AI%20ML%20DS/Difference%20Between%20DS%20AI%20AND%20ML-2.pdf)**: Extended explanation of ML, DS, and AI relationships.
-  
----
 
 <a id="ai-links"></a>
 
@@ -539,8 +537,6 @@ Boost your productivity with ready-to-use command references:
 - **[📘 Difference Between DS, AI and ML - MyGreatLearning](https://www.mygreatlearning.com/blog/difference-data-science-machine-learning-ai/#:~:text=Artificial%20Intelligence%20uses%20logic%20and,are%20popular%20applications%20of%20AI)**: Explains how Data Science, AI, and ML intersect and diverge.
 
 - **[🧪 DS vs AI vs ML - Rice University](https://csweb.rice.edu/academics/graduate-programs/online-mds/blog/data-science-vs-ai-and-ml)**: Insights from Rice University into the distinctions between these fields.
-
----
 
 <a id="notebooklm"></a>
 ### 📓 NotebookLM
@@ -647,8 +643,6 @@ What is decentralization? Why is it essential to blockchain technology? Learn ke
 
 - **[📘 Choosing the Right Database for a Web Application - Xlinesoft](https://xlinesoft.com/solution-center/choose-database-web-application.htm)**: Free-to-read guide comparing database choices by hosting, maintenance, cost and application requirements. Published by Xlinesoft, the maker of PHPRunner.
 
----
-
 <a id="mariadb"></a>
 
 ### 🐬 MariaDB
@@ -658,8 +652,6 @@ What is decentralization? Why is it essential to blockchain technology? Learn ke
 - **[📘 MariaDB Tutorial PDF - TutorialsPoint](https://www.tutorialspoint.com/mariadb/mariadb_tutorial.pdf)**
 
 - **[🌐 MariaDB Server PDF Resources](https://mariadb.org/mariadbserverpdf/)**
-
----
 
 <a id="mongodb"></a>
 
@@ -674,16 +666,12 @@ What is decentralization? Why is it essential to blockchain technology? Learn ke
 - **[📝 MongoDB Handwritten Notes - TopperWorld](https://topperworld.in/mongodb-handwritten-notes/#pdf-mongodb-handwritten-notes/9/)**
 
 - **[📘 Free MongoDB PDF Tutorials - FromDev](https://www.fromdev.com/2019/01/best-free-mongodb-tutorials-pdf.html?amp=1)**
-  
----
 
 <a id="mysql"></a>
 
 ### 🧮 MySQL
 
 - **[🔍 SQL Personalities Quiz - LearnSQL](https://learnsql.com/blog/sql-personalities/)**: Interactive guide to explore your database mindset.
-
----
 
 <a id="oracle"></a>
 
@@ -793,23 +781,19 @@ What is decentralization? Why is it essential to blockchain technology? Learn ke
 - **[🎨 ArtDriveThru CSS Formatter Tool](https://artdrivethru.com/about)**: Online CSS beautifier and formatter for front-end developers.
 - **[🌈 ShowPro CSS Gradient Generator](https://showprosoftware.com/tools/css-gradient-generator)**: Create linear and radial CSS gradients, customize color stops and gradient angles, preview designs, and copy the generated CSS.
 
----
-
 <a id="books"></a>
 
-## 📚 Books
+### 📚 Books
 
 > 📄 PDF Files available in `Full Stack Development/Books/` folder:
 
 - **[📄 Web Development with Node & Express.pdf](Full%20Stack%20Development/Books/Web_Development_with_Node_Express.pdf)**: Learn backend development using Express.js.
 
 - **[📄 The Full Stack Developer Guide (PDFDrive)](Full%20Stack%20Development/Books/The%20Full%20Stack%20Developer_%20Your%20Essential%20Guide%20to%20the%20Everyday%20Skills%20Expected%20of%20a%20Modern%20Full%20Stack%20Web%20Developer%20%28%20PDFDrive%20%29.pdf)**: Essential full-stack skills for modern web developers.
-  
----
 
 <a id="notes"></a>
 
-## 📓 Notes
+### 📓 Notes
 
 - **[📄 Full Stack Introduction.pdf](Full%20Stack%20Development/Notes/Full%20Stack%20Introduction.pdf)**: Introductory overview of full stack development and its components.
 
@@ -942,6 +926,10 @@ What is decentralization? Why is it essential to blockchain technology? Learn ke
 - **[📙 Learn Python - W3Schools](https://www.w3schools.com/python/)**: Interactive lessons to grasp Python syntax, logic, and functions step-by-step.
 
 - **[📕 Real Python - Beginner’s Roadmap](https://realpython.com/learning-paths/beginner/)**: Structured learning paths for those new to Python, covering basics to real-world projects.
+
+### 🗺️ Python Learning Roadmap
+
+- **🐍 [Python for Data Science – Beginner's Roadmap](https://gist.github.com/madhurimarawat/bf23bb231f0214eb00cdd6884bb6ba31)**: A structured beginner-friendly learning path covering Python fundamentals, environment setup, Jupyter Notebook, Google Colab, data cleaning, data visualization, datasets, practical exercises, and Streamlit deployment.
 
 ---
 
@@ -1091,7 +1079,7 @@ Supports yearly & long-term analysis with secure backup strategies, ensuring cle
 ---
 
 <a id="markdown-guides-and-references"></a>
-### 📝 Markdown Guides and References
+## 📝 Markdown Guides and References
 
 - **📘 [GitHub Markdown: Basic Writing and Formatting Syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)**: Official GitHub documentation covering Markdown basics, headings, text formatting, lists, links, images, tables, and more.
 
@@ -1108,6 +1096,106 @@ Supports yearly & long-term analysis with secure backup strategies, ensuring cle
 - **🌐 [Markdown Advanced Features Across Platforms](https://www.tomarkdown.org/guides/markdown-advanced)**: Learn about advanced Markdown features and their support across different platforms, including GitHub, Bitbucket, and Notion.
 
 - **📊 [Markdown Platform Features Comparison](https://www.tomarkdown.org/guides/markdown_platform_features.png)**: Visual comparison of Markdown feature support across different platforms.
+
+---
+
+<a id="my-curated-github-stars-collections"></a>
+
+## 🌟 My Curated GitHub Stars Collections
+
+Explore my personally organized GitHub Star Lists featuring useful repositories, open-source projects, developer tools, learning resources, and creative collections.
+
+| GitHub List | Description | Repositories |
+|---|---|:---:|
+| [📋 Cheatsheets Collection](https://github.com/stars/madhurimarawat/lists/cheatsheets-collection) | A comprehensive set of cheatsheets covering key programming languages, tools, and frameworks. | 5 |
+| [🚀 Open Source Projects](https://github.com/stars/madhurimarawat/lists/open-source-projects) | A handpicked list of impactful open-source projects featuring popular and innovative solutions. | 21 |
+| [🐙 GitHub Profile Tools](https://github.com/stars/madhurimarawat/lists/octocat-github-profile-tools) | Tools to generate and optimize GitHub profiles for better visibility and a polished presence. | 14 |
+| [🌐 Web Development](https://github.com/stars/madhurimarawat/lists/web-development) | A curated collection of projects and resources for modern web development. | 10 |
+| [🌟 My Projects](https://github.com/stars/madhurimarawat/lists/my-projects) | A collection of my projects highlighting creativity, skills, and practical solutions to real-world challenges. | 17 |
+| [📚 General Resources](https://github.com/stars/madhurimarawat/lists/general-resources) | Useful tools and assets, including emojis, taglines, illustrations, and templates for portfolios, READMEs, and projects. | 9 |
+| [📊 Curated Datasets](https://github.com/stars/madhurimarawat/lists/curated-datasets) | Quality datasets for data science, analytics, and machine learning. | 5 |
+| [💻 CS Resources](https://github.com/stars/madhurimarawat/lists/cs-resources) | A curated collection of resources covering core Computer Science subjects and tools. | 13 |
+| [🛠️ Simple File Converters](https://github.com/stars/madhurimarawat/lists/simple-file-converters) | Handy tools to convert Markdown and HTML files to PDFs and make your workflow smoother. | 3 |
+| [🧠 Machine Learning Resources](https://github.com/stars/madhurimarawat/lists/machine-learning-resources) | A carefully curated collection of tutorials, libraries, and tools for machine learning and deep learning. | 5 |
+| [🎯 Placement Materials](https://github.com/stars/madhurimarawat/lists/placement-materials) | Curated resources for placement prep, including DSA, soft skills, and more. | 8 |
+| [💻 Fullstack AI Projects](https://github.com/stars/madhurimarawat/lists/fullstack-ai-projects) | Build full stack apps using Python, JavaScript, and AI to sharpen your skills, create real solutions, and grow as a developer. | 5 |
+| [🤖 LLM (Large Language Models)](https://github.com/stars/madhurimarawat/lists/llm-large-language-models) | Explore large language models where AI and language understanding combine to power smart text generation and communication tools. | 16 |
+| [🏗️ System Design Resources](https://github.com/stars/madhurimarawat/lists/system-design-resources) | A carefully curated set of resources to help you master system design concepts and best practices. | 3 |
+| [🔄 GitHub Utilities & Workflows](https://github.com/stars/madhurimarawat/lists/github-utilities-workflows) | Discover helpful tools, utilities, and GitHub Action workflows that streamline GitHub usage, boost developer productivity, and automate your development process. | 5 |
+| [🧰 Essential Developer Utilities](https://github.com/stars/madhurimarawat/lists/essential-developer-utilities) | Discover handy tools that streamline your development workflow, boost productivity, and simplify everyday coding tasks. | 4 |
+| [🎮 Gamer Console Zone](https://github.com/stars/madhurimarawat/lists/gamer-console-zone) | Discover innovative, creative, and fun games. Explore unique ideas from passionate developers. | 1 |
+| [👤 Portfolio Ideas](https://github.com/stars/madhurimarawat/lists/portfolio-ideas) | A curated collection of impressive portfolio examples to inspire and guide your own projects. | 6 |
+| [📝 Resume Tools](https://github.com/stars/madhurimarawat/lists/resume-tools) | Tools to create and improve resumes with smart formatting, design improvements, and useful resources for a polished professional story. | 2 |
+| [⚡ GPU Computing Stack](https://github.com/stars/madhurimarawat/lists/gpu-computing-stack) | A curated list of tools, frameworks, and libraries for GPU-based computing. Includes resources on CUDA and other acceleration technologies. | 1 |
+
+**Explore all my [GitHub Star Lists](https://github.com/madhurimarawat?tab=stars)** for more collections and discoveries.
+
+📄 **[Explore My GitHub Stars Collection (PDF)](https://media.licdn.com/dms/document/media/v2/D4D1FAQE-Yocpyc0q0Q/feedshare-document-sanitized-pdf/B4DZdTtpgcGkA8-/0/1749456178239?e=1796194800&v=beta&t=pi0r1B_iP6Tpviqq3SSAYsukRYgbgf0oiKdjSawsefY)**
+
+---
+
+<a id="project-ideas-and-inspiration"></a>
+## 💡 Project Ideas and Inspiration
+
+Explore creative project ideas, practical development challenges, and portfolio inspiration for developers at every skill level. Discover beginner-friendly projects, software development concepts, UI/UX ideas, and opportunities to contribute to open-source projects.
+
+- **🔥 [200 Project Ideas from Beginner to Advanced – DEV Community](https://dev.to/kishansheth/200-project-ideas-from-beginner-to-advanced-with-open-source-contributions-3g6a)**: Explore 200 project ideas across different difficulty levels, including opportunities to gain practical experience and contribute to open-source projects.
+- **💻 [Top 50 Software Development Project Ideas – GeeksforGeeks](https://www.geeksforgeeks.org/software-engineering/top-software-development-project-ideas/)**: Discover beginner-friendly software development project ideas to practice programming and strengthen your problem-solving skills.
+- **🎨 [12 Unique UI/UX Project Ideas – GUVI](https://www.guvi.in/blog/most-unique-ui-ux-project-ideas/)**: Find creative UI/UX design project ideas to improve your design skills and build an impressive portfolio.
+- **🌟 [Stand Out: Creative Portfolio Concepts for Developers – DEV Community](https://dev.to/madhurima_rawat/stand-out-creative-portfolio-concepts-for-developers-b6g)**: Explore creative portfolio concepts and presentation ideas to showcase your skills, projects, and developer identity.
+- **💡 [Creative Project Ideas & Inspiration – GitHub Gist](https://gist.github.com/madhurimarawat/98294b842b05aaae00c82ac9335f1b9e)**: A curated collection of project inspiration and ideas to help developers explore possibilities and build interesting projects.
+
+---
+
+ <a id="-developer-tools-and-resources"></a>
+## 🛠️ Developer Tools & Resources
+
+Discover useful developer utilities, productivity tools, starter kits, learning roadmaps, and practical resources to simplify development workflows, improve coding practices, and grow your technical skills.
+
+### 💻 Developer Tools
+
+- **🧪 [agent-qa](https://vostride.com/)**: Run natural-language web and mobile tests through CLI or MCP, with memidex persistent memory, validated self-improvement, and reviewable run evidence.
+- **🔍 [BestJSON JSON Diff](https://bestjson.com/json-diff)**: Compare JSON API responses and inspect added, removed, or changed values by path, with positional, unordered, and record-ID array comparison modes.
+- **📊 [Datacircle API](https://api.datacircle.dev/v1)**: Find the best GTM APIs. Compare benchmarks and explore results at [datacircle.dev](https://datacircle.dev).
+- **🎬 [GetYouTubeTranscript API](https://getyoutubetranscript.com/docs)**: Fetch YouTube video transcripts as JSON or text with timestamps, and search videos and channels through REST or a hosted MCP server. Includes 100 free credits on sign-up.
+- **🌐 [easi.run](https://easi.run/)**: Self-hosted Chrome browser infrastructure for external AI agents via MCP or REST, with live browser viewing and human takeover for logins, 2FA, and approvals. Licensed under AGPL-3.0.
+
+### ⚙️ Dev Starter Kits
+
+- **🧩 [Essential Template Kit](https://github.com/your-link-here)**: A collection of reusable templates, project structures, and starter setups to speed up development and keep things simple.
+
+### 🗺️ Developer Roadmaps & Learning Paths
+
+Explore structured learning paths, interactive roadmaps, and curated guides to help developers build skills, understand essential technologies, and navigate their learning journeys.
+
+1. **🛣️ [Developer Roadmaps – Get Started](https://roadmap.sh/get-started)**: Discover structured learning paths and guidance to help you choose what to learn and how to begin your developer journey.
+2. **🌐 [roadmap.sh – Developer Roadmaps](https://roadmap.sh/)**: Explore interactive roadmaps, guides, and learning resources covering frontend, backend, DevOps, AI, computer science, and many other development fields.
+3. **🐙 [Developer Roadmap – GitHub Repository](https://github.com/nilbuild/developer-roadmap)**: An open-source collection of interactive roadmaps, guides, and educational content designed to help developers grow their skills and careers.
+4. **🐍 [Python for Data Science – Beginner's Roadmap](https://gist.github.com/madhurimarawat/bf23bb231f0214eb00cdd6884bb6ba31)**: A beginner-friendly learning path covering Python fundamentals, environment setup, Jupyter Notebook, data cleaning, visualization, datasets, and Streamlit deployment.
+5. **📚 [Beginner's Guide to Projects & Development](https://gist.github.com/madhurimarawat/7a1c391a2959dff89997709e09516698)**: A practical guide to getting started with projects, organizing your work, showcasing your projects, and building your GitHub and LinkedIn presence.
+6. **🗂️ [File Extensions – Interactive Guide](https://gist.github.com/madhurimarawat/f30f48d700a45f397b55f64adf841536)**: An interactive reference explaining file extensions across documents, spreadsheets, programming languages, notebooks, databases, media, archives, and more.
+7. **📄 [File Extensions – PDF Guide](https://media.licdn.com/dms/document/media/v2/D4D1FAQH7XZW9PUxSCw/feedshare-document-url-metadata-scrapper-pdf/B4DZTl7zDIHAA0-/0/1739024477966?e=1796194800&v=beta&t=ZPnjBMD2qyc2gHtw4kMRfR8D5NmqVKW7jidOTA_8g14)**: Access the downloadable PDF reference covering different file extensions.
+8. **👨‍💻 [CodeChef – All Roadmaps](https://www.codechef.com/roadmaps)**: Explore programming and computer science roadmaps designed to guide learners through important concepts and skills.
+
+### ✂️ Code Optimization & Refactoring
+
+Explore techniques and resources for improving code quality, simplifying complex implementations, automating refactoring, and creating modular, maintainable code.
+
+- **🤖 [From 2500+ to 10+ Lines: Automated Modular Code Refactor – DEV Community](https://dev.to/madhurima_rawat/from-2500-to-10-lines-automated-modular-code-refactor-803)**: Discover an automated approach to transforming a large codebase into a more concise, modular, and maintainable implementation.
+
+### 🧾 Cheatsheets & Quick References
+
+Boost your productivity with ready-to-use command references:
+
+- **🔥 [The Ultimate Cheat Sheet - 1000+ Essential Commands](https://dev.to/ramkumar-m-n/the-ultimate-cheat-sheet-1000-essential-commands-growing-all-in-one-place-dont-miss-out-53ep)**: A constantly updated mega list of developer commands for terminal, Git, Python, and more - all in one place.
+  
+- **📚 [Devhints - Developer Cheatsheets](https://devhints.io/)**: A broad collection of concise cheat sheets for programming languages, frameworks, command-line tools, JavaScript, React, Docker, Bash, and more.
+
+- **:octocat: [Git Cheat Sheet - GitHub Docs](https://docs.github.com/en/get-started/git-basics/git-cheatsheet)**: A handy reference for everyday Git commands, including commits, branches, remotes, staging, and managing changes.
+
+- **🐧 [Linux Commands Cheatsheet - Linuxize](https://linuxize.com/cheatsheet/linux-commands/)**: A practical reference for Linux terminal commands covering file management, permissions, searching, processes, networking, and archives.
+
+- **🧰 [Uplatz - Developer Cheat Sheets](https://uplatz.com/cheatsheets/)**: Free, searchable quick references for Git, Python, SQL, Docker, Kubernetes, Linux, Bash, and other developer tools, with copyable commands.
 
 ---
 

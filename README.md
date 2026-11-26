@@ -1210,13 +1210,38 @@ Boost your productivity with ready-to-use command references:
 
 - **🧰 [Uplatz - Developer Cheat Sheets](https://uplatz.com/cheatsheets/)**: Free, searchable quick references for Git, Python, SQL, Docker, Kubernetes, Linux, Bash, and other developer tools, with copyable commands.
 
-### **☁️ Cloud Computing**
+### ☁️ Cloud Computing
 
 Explore cloud computing concepts and resources for understanding AWS services, setting up virtual machines and S3, and simulating cloud environments locally using LocalStack.
 
 - **☁️ [Cloud Computing – GitHub Repository](https://github.com/madhurimarawat/Cloud-Computing)**: Learn how to set up and experiment with AWS services, including virtual machines and S3, using LocalStack for local cloud development and testing.
-- **📚 [Cloud Computing Tutorial Series – DEV Community](https://dev.to/madhurima_rawat/series/31049**: Follow a hands-on tutorial series covering cloud computing concepts and practical implementations of AWS services using LocalStack.
+- **📚 [Cloud Computing Tutorial Series – DEV Community](https://dev.to/madhurima_rawat/series/31049)**: Follow a hands-on tutorial series covering cloud computing concepts and practical implementations of AWS services using LocalStack.
 
+### 🌐 API Directory for Developers
+
+Looking for APIs to use in your next project? This collection includes directories of free and public APIs, along with a tool for creating mock JSON APIs. Whether you're testing an idea, building an application, or experimenting with integrations, these resources can help you get started.
+
+- **🌐 [Public APIs – publicapis.io](https://publicapis.io/)**: Find public APIs from different categories for use in personal projects, application development, and experiments.
+- **🔗 [Free APIs – GitHub](https://free-apis.github.io/#/)**: A collection of free APIs that developers can explore and use while learning, building projects, or testing integrations.
+- **📚 [Public APIs – publicapis.dev](https://publicapis.dev/)**: Browse and search APIs across various categories to find services that fit your project requirements.
+- **🌊 [AquaScript](https://aquascript.xyz/)**: Create mock JSON APIs for development and testing. Useful when you need sample data or API responses without setting up a backend.
+
+### 🛠️ Error Messages → Solutions Library
+
+Run into an error you can't figure out? These resources help you look up error codes, understand what went wrong, and find possible solutions. They cover everything from everyday Windows and application issues to programming errors and cloud-related problems.
+
+- **🔍 [That Error Message](https://thaterrormessage.com/)**: A troubleshooting forum where users share and discuss error messages, including Windows update problems, application errors, and gaming-related issues.
+- **🤖 [CheckMyError](https://checkmyerror.com/)**: Look up errors from Windows, iPhone, Android, Xbox, PlayStation, browsers, and other platforms. Its guides explain common causes and suggest troubleshooting steps.
+- **📖 [Error Atlas](https://www.erroratlas.net/)**: Find documented errors from development tools, programming languages, frameworks, operating systems, and cloud platforms such as AWS, Azure, and Docker.
+- **🐍 [Python – Errors and Exceptions](https://docs.python.org/3/tutorial/errors.html)**: Refer to the official Python tutorial to understand syntax errors, exceptions, common error types, and how to handle them in your code.
+
+### ⚖️ Technology Comparison Directory
+
+Choosing between two technologies can be tricky, especially when they offer similar features. These platforms provide comparisons of frameworks, developer tools, cloud services, software, and other technologies to help you understand their differences before making a choice.
+
+- **🔄 [TechList – Technology Comparisons](https://techlist.ai/tools/compare)**: Compare popular technologies such as React and Vue, Next.js and Nuxt, AWS and Cloudflare, Vercel and Netlify, and Tailwind CSS and Bootstrap.
+- **📊 [The Tech Compare](https://thetechcompare.com/)**: Compare smartphones and online services through product information, specifications, and detailed benchmarks.
+  
 ---
 
 <a id="open-source-alternatives"></a>

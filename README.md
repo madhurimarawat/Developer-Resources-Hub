@@ -255,7 +255,8 @@ It also covers all the little-to-big annoyances you might face, like not being a
 </td>
   </tr>
 
-  <tr><td align="center">
+  <tr>
+    <td align="center">
   <a href="#-developer-tools-and-resources">
     <img src="https://cdn-icons-png.flaticon.com/512/9496/9496161.png"
          width="45"
@@ -263,7 +264,18 @@ It also covers all the little-to-big annoyances you might face, like not being a
          alt="Developer Tools & Resources">
     <br>🛠️ Developer Tools
   </a>
-</td></tr>
+</td>
+<td align="center">
+    <a href="#-open-source-alternatives">
+        <img src="https://cdn-icons-png.flaticon.com/512/732/732232.png"
+             width="45"
+             height="45"
+             alt="Open Source Alternatives">
+        <br>🆓 Open Source Alternatives
+    </a>
+</td>
+  
+  </tr>
 </table>
 
 </div>
@@ -319,6 +331,7 @@ It also covers all the little-to-big annoyances you might face, like not being a
 - [🌟 My Curated GitHub Stars Collection](#-my-curated-github-stars-collections)
 - [💡 Project Ideas & Inspiration](#-project-ideas-and-inspiration)
 - [🛠️ Developer Tools & Resources](#-developer-tools-and-resources)
+- [🆓 Open Source Alternatives](#-open-source-alternatives)
 
 ---
 
@@ -1203,6 +1216,34 @@ Explore cloud computing concepts and resources for understanding AWS services, s
 
 - **☁️ [Cloud Computing – GitHub Repository](https://github.com/madhurimarawat/Cloud-Computing)**: Learn how to set up and experiment with AWS services, including virtual machines and S3, using LocalStack for local cloud development and testing.
 - **📚 [Cloud Computing Tutorial Series – DEV Community](https://dev.to/madhurima_rawat/series/31049**: Follow a hands-on tutorial series covering cloud computing concepts and practical implementations of AWS services using LocalStack.
+
+---
+
+<a id="open-source-alternatives"></a>
+## 🆓 Open Source Alternatives
+
+Discover free and open-source alternatives to popular paid software, SaaS platforms, and developer tools. Explore curated repositories and online directories to find cost-effective solutions across development, productivity, design, AI, infrastructure, and more.
+
+### 📦 GitHub Repositories
+
+Explore curated GitHub repositories documenting free, open-source, and free-tier alternatives to popular commercial software. Discover categorized resources, licensing details, project comparisons, and community-maintained tool collections.
+
+- **🌟 [Awesome Open Source SaaS Alternatives – GitHub](https://github.com/Anil-matcha/awesome-open-source-saas-alternatives)**: Explore open-source alternatives to paid SaaS applications such as Notion, Slack, Auth0, and Vercel, with licensing information and GitHub stars.
+  - **🔎 [Open Source Alternatives – MuAPI](https://muapi.ai/open-source/alternatives)**: Discover open-source alternatives to popular software and services through a dedicated online directory.
+
+- **🛠️ [Awesome Tools – GitHub](https://github.com/kritagyadubey/awesome-tools)**: Browse a curated directory of 1,026 free, open-source, and free-tier tools across multiple categories, featuring a searchable static web application.
+  - **🌐 [Visit Awesome Tools](https://kritagyadubey.github.io/awesome-tools/)**: Explore the searchable online directory of free and open-source tools.
+
+- **💻 [Awesome Open Source Alternatives – GitHub](https://github.com/onmyway133/awesome-open-source-alternatives)**: Discover a curated collection of open-source alternatives to popular SaaS products across backend infrastructure, developer tools, AI, analytics, communication, productivity, files, media, marketing, and business categories.
+  - **🌐 [Visit On My Way](https://onmyway133.com/)**: Explore the website of the developer behind the repository and discover additional development resources.
+
+### 🌐 Websites and Online Directories
+
+Explore dedicated online platforms that help you discover, compare, and choose free and open-source alternatives to proprietary software, paid applications, and subscription-based services.
+
+- **🌟 [Open Alternative](https://openalternative.co/)**: Discover open-source alternatives to popular commercial applications and SaaS products through a curated online directory.
+
+- **🔍 [Open Source Alternative](https://opensourcealternative.to/)**: Explore open-source alternatives to proprietary software and discover tools across different categories.
 
 ---
 

@@ -1217,14 +1217,17 @@ Explore cloud computing concepts and resources for understanding AWS services, s
 - **☁️ [Cloud Computing – GitHub Repository](https://github.com/madhurimarawat/Cloud-Computing)**: Learn how to set up and experiment with AWS services, including virtual machines and S3, using LocalStack for local cloud development and testing.
 - **📚 [Cloud Computing Tutorial Series – DEV Community](https://dev.to/madhurima_rawat/series/31049)**: Follow a hands-on tutorial series covering cloud computing concepts and practical implementations of AWS services using LocalStack.
 
-### 🌐 API Directory for Developers
+### 🌐 API Directories & Developer Resource Collections
 
-Looking for APIs to use in your next project? This collection includes directories of free and public APIs, along with a tool for creating mock JSON APIs. Whether you're testing an idea, building an application, or experimenting with integrations, these resources can help you get started.
+Looking for APIs and useful resources for your next project? Explore curated directories of free and public APIs, developer tools, learning materials, and mock API services. These collections can help you discover resources, experiment with integrations, and accelerate development.
 
 - **🌐 [Public APIs – publicapis.io](https://publicapis.io/)**: Find public APIs from different categories for use in personal projects, application development, and experiments.
 - **🔗 [Free APIs – GitHub](https://free-apis.github.io/#/)**: A collection of free APIs that developers can explore and use while learning, building projects, or testing integrations.
 - **📚 [Public APIs – publicapis.dev](https://publicapis.dev/)**: Browse and search APIs across various categories to find services that fit your project requirements.
 - **🌊 [AquaScript](https://aquascript.xyz/)**: Create mock JSON APIs for development and testing. Useful when you need sample data or API responses without setting up a backend.
+- **🔌 [Public API Lists](https://github.com/public-api-lists/public-api-lists)**: A curated collection of free public APIs across multiple categories, searchable and community-maintained, with a free JSON API.
+  - **🌐 [Public API Lists Website](https://public-api-lists.github.io/public-api-lists/)**: Browse and search a categorized collection of free public APIs through an easy-to-use website.
+- **📖 [Free Developer Resources – GitHub](https://github.com/codu-code/free-developer-resources)**: A comprehensive collection of free resources for web developers, covering accessibility, APIs, blogs, books, courses, CSS, design, databases, developer tools, coding practice, and learning resources.
 
 ### 🛠️ Error Messages → Solutions Library
 

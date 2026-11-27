@@ -1173,6 +1173,7 @@ Discover useful developer utilities, productivity tools, starter kits, learning 
 - **🎨 [DESIGN:OS Studio](https://jangtrinh.github.io/design-os-studio/)**: Free desktop interface design app written in Rust that opens and saves .fig files, with an Agents panel and a local MCP server so AI coding agents can read and edit the open design. Source-available under PolyForm Shield 1.0.0.
 - **🎬 [GetYouTubeTranscript API](https://getyoutubetranscript.com/docs)**: Fetch YouTube video transcripts as JSON or text with timestamps, and search videos and channels through REST or a hosted MCP server. Includes 100 free credits on sign-up.
 - **🌐 [easi.run](https://easi.run/)**: Self-hosted Chrome browser infrastructure for external AI agents via MCP or REST, with live browser viewing and human takeover for logins, 2FA, and approvals. Licensed under AGPL-3.0.
+- **🔒 [NoCert](https://nocert.io/)**: Find TLS certificates on public services and internal networks, and get alerts before they expire.
 
 ### ⚙️ Dev Starter Kits
 

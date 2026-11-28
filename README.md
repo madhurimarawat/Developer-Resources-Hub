@@ -41,6 +41,9 @@ It also covers all the little-to-big annoyances you might face, like not being a
   <a href="https://github.com/madhurimarawat/Developer-Resources-Hub"><img src="https://github.com/madhurimarawat/Developer-Resources-Hub/raw/main/images/developers_resources_hub_illustration_dark.PNG"></a>
 </p>
 
+> [!NOTE]
+> 🌐 **Live Website:** [Developer Resources Hub](https://madhurimarawat.github.io/Developer-Resources-Hub/)
+
 **Developer Resources Hub** brings together well-structured guides, tutorials, and reference materials across key domains in software development:
 
 * 💼 **Job Preparation** - Interview questions, coding challenges, and career-building resources  
@@ -171,6 +174,12 @@ It also covers all the little-to-big annoyances you might face, like not being a
   </tr>
   <tr>
     <td align="center">
+  <a href="#jekyll">
+    <img src="https://avatars.githubusercontent.com/u/3083652?s=200&v=4" width="45" height="45" alt="Jekyll">
+    <br>💎 Jekyll
+  </a>
+</td>
+    <td align="center">
       <a href="#kotlin-programming">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="45" height="45" alt="Kotlin">
         <br>📱 Kotlin
@@ -200,14 +209,14 @@ It also covers all the little-to-big annoyances you might face, like not being a
         <br>🌟 My GitHub Stars
       </a>
     </td>
-    <td align="center">
+  </tr>
+  <tr>
+     <td align="center">
       <a href="#recommended-apps">
         <img src="https://cdn-icons-png.flaticon.com/512/906/906334.png" width="45" height="45" alt="Notes and Apps">
         <br>📱 Notes & Apps
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="#-open-source-alternatives">
         <img src="https://cdn-icons-png.flaticon.com/512/732/732232.png" width="45" height="45" alt="Open Source">
@@ -238,14 +247,14 @@ It also covers all the little-to-big annoyances you might face, like not being a
         <br>🦀 Rust
       </a>
     </td>
-    <td align="center">
+  </tr>
+  <tr>
+       <td align="center">
       <a href="#sas-programming">
         <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" width="45" height="45" alt="SAS">
         <br>📊 SAS
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="#study-resources">
         <img src="https://cdn-icons-png.flaticon.com/512/2436/2436636.png" width="45" height="45" alt="Study">
@@ -302,6 +311,7 @@ It also covers all the little-to-big annoyances you might face, like not being a
 - [🧾 Graphic Designing](#graphic-designing)
 - [🧾 HTML to PDF Conversion](#-html-to-pdf-conversion)
 - [📡 IoT Resources](#iot-resources)
+- [💎 Jekyll](#jekyll)
 - [📱 Kotlin Programming](#kotlin-programming)
 - [🐧 Linux Guides](#linux-guides)
 - [🧠 LLM (Large Language Models)](#llm-resources)
@@ -848,6 +858,142 @@ No setup needed—just upload your file and convert:
 ### 🔗 Book Link
 
 - **[📘 IoT & Applications Digital Notes - MRCET](https://mrcet.com/downloads/digital_notes/EEE/IoT%20&%20Applications%20Digital%20Notes.pdf)**: Core material for understanding IoT fundamentals and its applications.
+
+---
+
+<a id="jekyll"></a>
+## 💎 Jekyll
+
+- **🌐 [Jekyll](https://github.com/jekyll)**: A powerful static site generator built with Ruby. Transform plain text into static websites and blogs using templates and layouts.
+- **📂 [Jekyll GitHub Repository](https://github.com/jekyll/jekyll)**: Explore the source code, documentation, and development of Jekyll.
+
+**💡 Useful Feature:** You can use Jekyll to directly serve your repository's README as your GitHub Pages homepage using the appropriate configuration, without creating a separate `index.html` file.
+
+### ⚙️ Jekyll Configuration
+
+You can configure your GitHub Pages website using the `_config.yml` file.
+
+The following is an example configuration for a GitHub Pages project site using the Midnight theme:
+
+```yaml
+# ==========================================
+# Developer Resources Hub
+# Jekyll + Midnight Theme
+# ==========================================
+
+# ------------------------------------------
+# Site Information
+# ------------------------------------------
+
+title: "Developer Resources Hub"
+tagline: "Curated collection of developer resources"
+
+description: >-
+  A comprehensive collection of valuable resources for developers,
+  covering job preparation, programming, frontend, backend,
+  AI, machine learning, IoT, databases, and much more.
+
+# Website URL and repository path
+url: "https://madhurimarawat.github.io"
+baseurl: "/Developer-Resources-Hub"
+
+# ------------------------------------------
+# Author Information
+# ------------------------------------------
+
+author:
+  name: "Madhurima Rawat"
+
+# ------------------------------------------
+# Repository Information
+# ------------------------------------------
+
+repository: madhurimarawat/Developer-Resources-Hub
+
+# ------------------------------------------
+# Language and Localization
+# ------------------------------------------
+
+lang: en-US
+timezone: Asia/Kolkata
+
+# ------------------------------------------
+# Theme Configuration
+# ------------------------------------------
+
+theme: jekyll-theme-midnight
+
+# Display the GitHub repository download links
+show_downloads: true
+
+# ------------------------------------------
+# SEO and Social Sharing
+# ------------------------------------------
+
+image: "https://raw.githubusercontent.com/madhurimarawat/Developer-Resources-Hub/main/images/developers_resources_hub_illustration.PNG"
+
+social:
+  name: "Madhurima Rawat"
+  links:
+    - "https://github.com/madhurimarawat"
+
+# ------------------------------------------
+# Markdown and Code Highlighting
+# ------------------------------------------
+
+markdown: kramdown
+highlighter: rouge
+
+kramdown:
+  input: GFM
+  math_engine: mathjax
+  syntax_highlighter: rouge
+
+# ------------------------------------------
+# Permalinks and Build Settings
+# ------------------------------------------
+
+permalink: pretty
+
+# ------------------------------------------
+# Files and Directories to Exclude
+# ------------------------------------------
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .github
+  - .gitignore
+  - LICENSE
+  - CONTRIBUTING.md
+````
+
+### **🎨 Jekyll Themes**
+
+**📘 Official Guide:** [Adding a theme to your GitHub Pages site using Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll)
+
+GitHub Pages supports several Jekyll themes out of the box.
+
+| Theme        | GitHub Repository | Live Demo | Theme Code |
+| ------------ | ----------------- | --------- | ---------- |
+| Architect    | [Repository](https://github.com/pages-themes/architect) | [Demo](https://pages-themes.github.io/architect/) | `theme: jekyll-theme-architect` |
+| Cayman      | [Repository](https://github.com/pages-themes/cayman) | [Demo](https://pages-themes.github.io/cayman/) | `theme: jekyll-theme-cayman` |
+| Dinky       | [Repository](https://github.com/pages-themes/dinky) | [Demo](https://pages-themes.github.io/dinky/) | `theme: jekyll-theme-dinky` |
+| Hacker      | [Repository](https://github.com/pages-themes/hacker) | [Demo](https://pages-themes.github.io/hacker/) | `theme: jekyll-theme-hacker` |
+| Leap Day    | [Repository](https://github.com/pages-themes/leap-day) | [Demo](https://pages-themes.github.io/leap-day/) | `theme: jekyll-theme-leap-day` |
+| Merlot      | [Repository](https://github.com/pages-themes/merlot) | [Demo](https://pages-themes.github.io/merlot/) | `theme: jekyll-theme-merlot` |
+| Midnight    | [Repository](https://github.com/pages-themes/midnight) | [Demo](https://pages-themes.github.io/midnight/) | `theme: jekyll-theme-midnight` |
+| Minima      | [Repository](https://github.com/jekyll/minima) | [Demo](https://jekyll.github.io/minima/) | `theme: minima` |
+| Minimal     | [Repository](https://github.com/pages-themes/minimal) | [Demo](https://pages-themes.github.io/minimal/) | `theme: jekyll-theme-minimal` |
+| Modernist   | [Repository](https://github.com/pages-themes/modernist) | [Demo](https://pages-themes.github.io/modernist/) | `theme: jekyll-theme-modernist` |
+| Slate       | [Repository](https://github.com/pages-themes/slate) | [Demo](https://pages-themes.github.io/slate/) | `theme: jekyll-theme-slate` |
+| Tactile     | [Repository](https://github.com/pages-themes/tactile) | [Demo](https://pages-themes.github.io/tactile/) | `theme: jekyll-theme-tactile` |
+| Time Machine | [Repository](https://github.com/pages-themes/time-machine) | [Demo](https://pages-themes.github.io/time-machine/) | `theme: jekyll-theme-time-machine` |
+
+> [!NOTE]
+> To change your GitHub Pages theme, add the corresponding theme code to your `_config.yml` file (e.g., `theme: jekyll-theme-midnight`).
 
 ---
 

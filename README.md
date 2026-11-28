@@ -1169,6 +1169,7 @@ Discover useful developer utilities, productivity tools, starter kits, learning 
 
 - **🧪 [agent-qa](https://vostride.com/)**: Run natural-language web and mobile tests through CLI or MCP, with memidex persistent memory, validated self-improvement, and reviewable run evidence.
 - **🔍 [BestJSON JSON Diff](https://bestjson.com/json-diff)**: Compare JSON API responses and inspect added, removed, or changed values by path, with positional, unordered, and record-ID array comparison modes.
+- **📸 [CurlShot](https://curlshot.com/)**: Screenshot API and online tool that turns a URL, HTML, or Markdown into an image, PDF, or scrolling video, with [docs](https://curlshot.com/docs) and a hosted MCP server. Free plan: 50 screenshots a month, no card.
 - **📊 [Datacircle API](https://api.datacircle.dev/v1)**: Find the best GTM APIs. Compare benchmarks and explore results at [datacircle.dev](https://datacircle.dev).
 - **🎨 [DESIGN:OS Studio](https://jangtrinh.github.io/design-os-studio/)**: Free desktop interface design app written in Rust that opens and saves .fig files, with an Agents panel and a local MCP server so AI coding agents can read and edit the open design. Source-available under PolyForm Shield 1.0.0.
 - **🎬 [GetYouTubeTranscript API](https://getyoutubetranscript.com/docs)**: Fetch YouTube video transcripts as JSON or text with timestamps, and search videos and channels through REST or a hosted MCP server. Includes 100 free credits on sign-up.

@@ -1,0 +1,122 @@
+
+# ==========================================
+# Developer Resources Hub
+# Jekyll + Just the Docs
+# ==========================================
+
+# Site information
+title: "Developer Resources Hub"
+description: >-
+  A comprehensive collection of valuable resources for developers,
+  covering programming, job preparation, frontend, backend,
+  AI, machine learning, IoT, databases, and much more.
+
+url: "https://madhurimarawat.github.io"
+baseurl: "/Developer-Resources-Hub"
+
+# Theme
+remote_theme: just-the-docs/just-the-docs
+
+# Repository information
+repository: madhurimarawat/Developer-Resources-Hub
+
+# Language
+lang: en-US
+
+# ==========================================
+# Search
+# ==========================================
+
+search_enabled: true
+
+search:
+  heading_level: 3
+  previews: 3
+  preview_words_before: 5
+  preview_words_after: 10
+  tokenizer_separator: /[\s\-/]+/
+  rel_url: true
+  button: true
+  focus_shortcut_key: "k"
+
+# ==========================================
+# Appearance
+# ==========================================
+
+color_scheme: dark
+
+# Enable heading anchor links
+heading_anchors: true
+
+# ==========================================
+# Navigation
+# ==========================================
+
+nav_enabled: true
+nav_sort: case_insensitive
+
+# ==========================================
+# GitHub links
+# ==========================================
+
+aux_links:
+  "View on GitHub":
+    - "https://github.com/madhurimarawat/Developer-Resources-Hub"
+
+aux_links_new_tab: true
+
+gh_edit_link: true
+gh_edit_link_text: "Edit this page on GitHub"
+gh_edit_repository: "https://github.com/madhurimarawat/Developer-Resources-Hub"
+gh_edit_branch: "main"
+gh_edit_view_mode: "edit"
+
+# ==========================================
+# Footer
+# ==========================================
+
+back_to_top: true
+back_to_top_text: "Back to top"
+
+# ==========================================
+# Markdown
+# ==========================================
+
+markdown: kramdown
+highlighter: rouge
+
+kramdown:
+  syntax_highlighter_opts:
+    block:
+      line_numbers: false
+
+# ==========================================
+# Plugins
+# ==========================================
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-github-metadata
+
+# ==========================================
+# Build settings
+# ==========================================
+
+permalink: pretty
+timezone: Asia/Kolkata
+
+# ==========================================
+# Excluded files
+# ==========================================
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .github
+  - .gitignore
+  - LICENSE
+  - CONTRIBUTING.md

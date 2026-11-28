@@ -1,17 +1,17 @@
-
-# Site information
+# Developer Resources Hub
 title: "Developer Resources Hub"
 tagline: "Your collection of developer resources"
+
 description: >-
   A comprehensive collection of valuable resources for developers,
-  covering programming, job preparation, frontend, backend,
+  covering job preparation, programming, frontend, backend,
   AI, machine learning, IoT, databases, and much more.
 
 url: "https://madhurimarawat.github.io"
 baseurl: "/Developer-Resources-Hub"
 
-# Midnight theme
-remote_theme: pages-themes/midnight@v0.2.0
+# Theme
+theme: jekyll-theme-midnight
 
 # Repository
 repository: madhurimarawat/Developer-Resources-Hub
@@ -19,30 +19,23 @@ repository: madhurimarawat/Developer-Resources-Hub
 # Language
 lang: en-US
 
-# SEO
-plugins:
-  - jekyll-remote-theme
-  - jekyll-seo-tag
-
-author:
-  name: "Madhuri Rawat"
-
 # Markdown
 markdown: kramdown
 highlighter: rouge
 
 kramdown:
   input: GFM
+  math_engine: mathjax
   syntax_highlighter: rouge
 
-# Theme settings
+# Midnight settings
 show_downloads: true
 
 # Build settings
 permalink: pretty
 timezone: Asia/Kolkata
 
-# Exclude files
+# Excluded files
 exclude:
   - Gemfile
   - Gemfile.lock

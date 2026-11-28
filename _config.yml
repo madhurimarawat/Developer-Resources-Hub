@@ -1,25 +1,72 @@
+
+# ==========================================
 # Developer Resources Hub
+# Jekyll + Midnight Theme
+# ==========================================
+
+# ------------------------------------------
+# Site Information
+# ------------------------------------------
+
 title: "Developer Resources Hub"
-tagline: "Your collection of developer resources"
+tagline: "Curated collection of developer resources"
 
 description: >-
   A comprehensive collection of valuable resources for developers,
   covering job preparation, programming, frontend, backend,
   AI, machine learning, IoT, databases, and much more.
 
+# Website URL and repository path
 url: "https://madhurimarawat.github.io"
 baseurl: "/Developer-Resources-Hub"
 
-# Theme
-theme: jekyll-theme-midnight
+# ------------------------------------------
+# Author Information
+# ------------------------------------------
 
-# Repository
+author:
+  name: "Madhurima Rawat"
+
+# ------------------------------------------
+# Repository Information
+# ------------------------------------------
+
 repository: madhurimarawat/Developer-Resources-Hub
 
-# Language
-lang: en-US
+# ------------------------------------------
+# Language and Localization
+# ------------------------------------------
 
-# Markdown
+lang: en-US
+timezone: Asia/Kolkata
+
+# ------------------------------------------
+# Theme Configuration
+# ------------------------------------------
+
+theme: jekyll-theme-midnight
+
+# Display the GitHub repository download links
+show_downloads: true
+
+# ------------------------------------------
+# SEO and Social Sharing
+# ------------------------------------------
+
+# Social sharing preview image
+# Uses your existing illustration directly from GitHub
+image: "https://raw.githubusercontent.com/madhurimarawat/Developer-Resources-Hub/main/images/developers_resources_hub_illustration.PNG"
+
+# Author's GitHub profile
+social:
+  name: "Madhurima Rawat"
+  links:
+    - "https://github.com/madhurimarawat"
+
+# ------------------------------------------
+# Markdown and Code Highlighting
+# ------------------------------------------
+
 markdown: kramdown
 highlighter: rouge
 
@@ -28,14 +75,17 @@ kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
 
-# Midnight settings
-show_downloads: true
+# ------------------------------------------
+# Permalinks and Build Settings
+# ------------------------------------------
 
-# Build settings
 permalink: pretty
-timezone: Asia/Kolkata
 
-# Excluded files
+# ------------------------------------------
+# Files and Directories to Exclude
+# ------------------------------------------
+
+# These files will not be included in the generated website
 exclude:
   - Gemfile
   - Gemfile.lock

@@ -1,12 +1,7 @@
 
-# ==========================================
-# Developer Resources Hub
-# Jekyll + Midnight Theme
-# ==========================================
-
 # Site information
 title: "Developer Resources Hub"
-
+tagline: "Your collection of developer resources"
 description: >-
   A comprehensive collection of valuable resources for developers,
   covering programming, job preparation, frontend, backend,
@@ -15,22 +10,16 @@ description: >-
 url: "https://madhurimarawat.github.io"
 baseurl: "/Developer-Resources-Hub"
 
-# ==========================================
-# Theme
-# ==========================================
-
+# Midnight theme
 remote_theme: pages-themes/midnight@v0.2.0
 
-# Repository information
+# Repository
 repository: madhurimarawat/Developer-Resources-Hub
 
 # Language
 lang: en-US
 
-# ==========================================
 # SEO
-# ==========================================
-
 plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
@@ -38,13 +27,7 @@ plugins:
 author:
   name: "Madhuri Rawat"
 
-twitter:
-  card: summary
-
-# ==========================================
 # Markdown
-# ==========================================
-
 markdown: kramdown
 highlighter: rouge
 
@@ -52,26 +35,14 @@ kramdown:
   input: GFM
   syntax_highlighter: rouge
 
-# ==========================================
-# Build settings
-# ==========================================
+# Theme settings
+show_downloads: true
 
+# Build settings
 permalink: pretty
 timezone: Asia/Kolkata
 
-# ==========================================
-# GitHub repository links
-# ==========================================
-
-show_downloads: true
-
-github:
-  repository_url: "https://github.com/madhurimarawat/Developer-Resources-Hub"
-
-# ==========================================
-# Excluded files
-# ==========================================
-
+# Exclude files
 exclude:
   - Gemfile
   - Gemfile.lock

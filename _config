@@ -1,11 +1,12 @@
 
 # ==========================================
 # Developer Resources Hub
-# Jekyll + Just the Docs
+# Jekyll + Midnight Theme
 # ==========================================
 
 # Site information
 title: "Developer Resources Hub"
+
 description: >-
   A comprehensive collection of valuable resources for developers,
   covering programming, job preparation, frontend, backend,
@@ -14,8 +15,11 @@ description: >-
 url: "https://madhurimarawat.github.io"
 baseurl: "/Developer-Resources-Hub"
 
+# ==========================================
 # Theme
-remote_theme: just-the-docs/just-the-docs
+# ==========================================
+
+remote_theme: pages-themes/midnight@v0.2.0
 
 # Repository information
 repository: madhurimarawat/Developer-Resources-Hub
@@ -24,59 +28,18 @@ repository: madhurimarawat/Developer-Resources-Hub
 lang: en-US
 
 # ==========================================
-# Search
+# SEO
 # ==========================================
 
-search_enabled: true
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
 
-search:
-  heading_level: 3
-  previews: 3
-  preview_words_before: 5
-  preview_words_after: 10
-  tokenizer_separator: /[\s\-/]+/
-  rel_url: true
-  button: true
-  focus_shortcut_key: "k"
+author:
+  name: "Madhuri Rawat"
 
-# ==========================================
-# Appearance
-# ==========================================
-
-color_scheme: dark
-
-# Enable heading anchor links
-heading_anchors: true
-
-# ==========================================
-# Navigation
-# ==========================================
-
-nav_enabled: true
-nav_sort: case_insensitive
-
-# ==========================================
-# GitHub links
-# ==========================================
-
-aux_links:
-  "View on GitHub":
-    - "https://github.com/madhurimarawat/Developer-Resources-Hub"
-
-aux_links_new_tab: true
-
-gh_edit_link: true
-gh_edit_link_text: "Edit this page on GitHub"
-gh_edit_repository: "https://github.com/madhurimarawat/Developer-Resources-Hub"
-gh_edit_branch: "main"
-gh_edit_view_mode: "edit"
-
-# ==========================================
-# Footer
-# ==========================================
-
-back_to_top: true
-back_to_top_text: "Back to top"
+twitter:
+  card: summary
 
 # ==========================================
 # Markdown
@@ -86,19 +49,8 @@ markdown: kramdown
 highlighter: rouge
 
 kramdown:
-  syntax_highlighter_opts:
-    block:
-      line_numbers: false
-
-# ==========================================
-# Plugins
-# ==========================================
-
-plugins:
-  - jekyll-remote-theme
-  - jekyll-seo-tag
-  - jekyll-sitemap
-  - jekyll-github-metadata
+  input: GFM
+  syntax_highlighter: rouge
 
 # ==========================================
 # Build settings
@@ -106,6 +58,15 @@ plugins:
 
 permalink: pretty
 timezone: Asia/Kolkata
+
+# ==========================================
+# GitHub repository links
+# ==========================================
+
+show_downloads: true
+
+github:
+  repository_url: "https://github.com/madhurimarawat/Developer-Resources-Hub"
 
 # ==========================================
 # Excluded files
